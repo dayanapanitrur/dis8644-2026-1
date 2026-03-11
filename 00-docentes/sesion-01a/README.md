@@ -1,5 +1,7 @@
 # sesion-01a
 
+martes 10 marzo 2026
+
 ## presentación equuipo docente
 
 aarón montoya
