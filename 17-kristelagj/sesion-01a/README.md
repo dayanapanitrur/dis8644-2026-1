@@ -70,10 +70,10 @@ La otra gran mujer que destacó es Wendy Carlos, mujer nacida en Estados Unidos 
 
 A partir de esto, además de reflexionar mis decisiones como intérprete, me hizo pensar en porque muchas venían de la música clásica y/o porque siempre comparaban con esta y como bien lo dice Jean-Michel Jarre compositor francés de música electrónica, ambos son mundos los cuales nos dan la libertad de expresarnos, generar sensaciones e imágenes, pero quien nos lleva más allá y exportar cosas inimaginables es la música electrónica. Podemos comprarlos, pero no podemos decir que no tienen un propósito de poder teletransportarnos a un lugar en específico llegando a que tengamos las mismas sensaciones. 
 
-Clara Rockmore. (s. f.). Clara Rockmore. En Wikipedia. Recuperado el 13 de marzo de 2026, de https://es.wikipedia.org/wiki/Clara_Rockmore
+Clara Rockmore. (s. f.). Clara Rockmore. En Wikipedia. https://es.wikipedia.org/wiki/Clara_Rockmore
 
-Mujeres Bacanas. (s. f.). Clara Rockmore (1911–1998). Recuperado el 13 de marzo de 2026, de https://mujeresbacanas.com/clara-rockmore-1911-1998/
+Mujeres Bacanas. (s. f.). Clara Rockmore (1911–1998). https://mujeresbacanas.com/clara-rockmore-1911-1998/
 
-Wendy Carlos. (s. f.). Wendy Carlos. En Wikipedia. Recuperado el 13 de marzo de 2026, de https://en.wikipedia.org/wiki/Wendy_Carlos
+Wendy Carlos. (s. f.). Wendy Carlos. En Wikipedia. de https://en.wikipedia.org/wiki/Wendy_Carlos
 
 Bassmusic. (2024, 26 de octubre). ¿Se puede comparar la música electrónica con la clásica? https://bassmusic.cl/2024/10/26/se-puede-comparar-la-musica-electronica-con-la-clasica/ 
