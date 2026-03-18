@@ -54,6 +54,17 @@ Electrodos: aplicación para teléfono
 
 **Esquemático:** Representan de manera gráfica y abstracta el circuito
 
+La resistencia debe estar conectado a 2 lugares distintos de la protoboard
+
+**Circuito paralelo:** son independientes
+
+Read me es un archivo, no una carpeta
+
+**Circuito:** Lazo cerrado con elementos resistivos Fluye la electricidad mediante elementos
+
+Mucho de las cosas que hacemos es por sentir algo (aaron)
+
+
 
 
 
