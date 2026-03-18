@@ -1,9 +1,9 @@
 # sesion-02a
 
-## apuntes tomados en clase:
-![apuntes sobre los materiales](./imagenes/pag1.jpg)
-![apuntes sobre materiales aislantes, conductores y resistencia](./imagenes/pag2.jpg)
+**apuntes tomados en clases:**
 
-## circuitooo:
+![apuntes sobre los materiales](./imagenes/apuntes-sesion-02a.png)
+
+## circuito:
 ![circuito desde arriba](./imagenes/circuito1.jpg)
 ![circuito prendido](./imagenes/circuito2.jpg)
