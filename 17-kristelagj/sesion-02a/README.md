@@ -34,11 +34,11 @@ Los parlantes de bajo son mucho más grandes ya que el oído humano es más susc
 
 - Segunda parte: Misaa
 
-Resistencia electronica: 
-
-Resistencia electrónica: están realizadas con carbón por su alta cantidad de OHM
+**Resistencia electrónica:** están realizadas con carbón por su alta cantidad de OHM
 
 El cobre tiene 0,075 Ω de resistencia, le cuesta más que al oro pasar los electrones y el oro tiene 0,022 Ω de resistencia.
+
+La resistencia debe estar conectado a 2 lugares distintos de la protoboard
 
 No existe ningún material que no tenga resistencia. Los científicos han realizado experimentos para bajar la resistencia, pero están adulterando los elementos. 
 
@@ -48,23 +48,21 @@ Las resistencias tienen un codigo de color ya que a traves de este metodo podemo
 2.  La tercera barrita son la cantidad de 0 que tiene
 3.  El color dorado es el margen de error o tolerancia.
 
-calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
+Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
 Electrodos: aplicación para teléfono
 
 **Esquemático:** Representan de manera gráfica y abstracta el circuito
 
-La resistencia debe estar conectado a 2 lugares distintos de la protoboard
-
 **Circuito paralelo:** son independientes
-
-Read me es un archivo, no una carpeta
 
 **Circuito:** Lazo cerrado con elementos resistivos Fluye la electricidad mediante elementos
 
 **VCC:** voltaje de corriente cotidiana
 
 **GND:** ground, 0V, tierra, voltaje negativo
+
+Read me es un archivo, no una carpeta
 
 Mucho de las cosas que hacemos es por sentir algo (aaron)
 
