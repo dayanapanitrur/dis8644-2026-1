@@ -18,7 +18,11 @@ Resistencias
 
 Broche de batería, se le conecta la batería y transporta energía al circuito
 
-Todo material se reviste pero el cobre se resiste menos 
+Todo material se resiste pero el cobre se resiste menos 
+
+![materiales](./imagenes/materiales_feliz.jpeg)
+
+![materiales 2](./imagenes/materiales_normal.jpeg)
 
 Cobre = 0,075
 
@@ -50,8 +54,18 @@ Cuero
 
 ¿Aire? Depende de las condiciones 
 
-Código de color de resistencia 
+### Código de color de resistencia 
+
+![codigo](./imagenes/codigos_colores_resistencias.jpg)
 
 ### Fotos de la clase y apuntes
 
+![resultados](./imagenes/resultado_ejercicio_en_clase.jpeg)
 
+![pizarra](./imagenes/apuntes_pizarra.jpeg)
+
+![pizarra](./imagenes/como_anotar_imagen.jpeg)
+
+![apuntes](./imagenes/apuntes_resistencia.jpg)
+
+![apuntes](./imagenes/apuntes_circuito_paralelo.jpg)
