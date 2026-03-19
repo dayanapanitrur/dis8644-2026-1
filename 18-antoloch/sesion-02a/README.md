@@ -233,6 +233,7 @@ En un circuito paralelo, la corriente tiene varios caminos, por lo que los compo
 | R5                   | 0  | 1  | 1  | 1  |
 | R6                   | 0  | 1  | 1  | 1  |
 
+-En este circuito, el LED D3 era más brillante, LED D1 tenía un brillo intermedio, el LED D2 era más tenue y el LED D4 es el más débil.
 
 
 ## The Man-Machine — Kraftwerk
@@ -288,7 +289,7 @@ https://youtu.be/KqbYgoS5bY4?si=Bq_-HwcHyYltQLYHhttps://youtu.be/KqbYgoS5bY4?si=
 Comparado con shows más actuales, siguen siendo buenos en vivo, pero se nota que antes había más urgencia, más energía y más caos. Ahora está todo más armado.  
 https://youtu.be/jE_73nVwFTM?si=9TjjKocDMXIaoIwA  
 
-### Reflexión final
+### Conclusión
 Lo que más me queda de este disco es que toma elementos de la música electrónica, como las repeticiones, pero los vuelve humanos, emocionales, ya que nada es perfecto. Donde Kraftwerk suena como el futuro, LCD Soundsystem suena como alguien pensando en el pasado mientras baila.
 
 
