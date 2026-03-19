@@ -211,10 +211,20 @@ GND Ground 0 volts Tierra **voltaje negativo**
 
 ## Desarrollo encargo parte 2
 
-Avances para la epoca (1975) en Disco *radio-activity* es que fue el primero completamente electronico de Kraftwerk.
+Avances para la epoca (1975) en Disco Kraftwerk - Radioaktivität (Full Album) *radio-activity* es que fue el primero completamente electronico de Kraftwerk.
 
 Estaba en un punto donde la tecnología emepzó a reemplazar completamente a los humanos y los instrumentos tradicionales por tecnológicos, se implementaron varios elementos que llaman la atención y hasta el día de hoy se siguen usando con las mejoras respectivas como los sintetizadores, vocoders y percusión electrónica. Además de la producción independiente se su estudio Kling Klang que permitió crear un sonido totalmente nuevo con el enfoque central del disco en la energia nuclear y la radio, que muestran lo interesados que estaban por los avances tecnologicos de esta epoca. Y estos sonidos no solo marcaron el albúm sino que también marcaron las bases de la música electrónica moderna.
 
 Esto tuvo influencia de Alemania post guerra como con el orden, frialdad, tecnología y orden con sonidos minimalistas y repetitivos como los de un robot con presición mecanica, en las presentaciones en vivo antes eran muy estáticos como sin cambio de imágen robotica y sin interacción con el público en cambio ahora existen visuales 3D con alteración de escenario o que la imagen juegue con la estructura del escenario con shows mas inmersivos y de interación con el publico y el uso de tecnología moderna como camaras, drones, luces de mayor calidad para comodidad del espectador.
 
-En el disco escucho como golpes ritmicos y mecanicos, sonidos de televisor antiguo, voces con cambios radicales y muy duros en su hablado, estática, instrumentos y melodías con las que se pueden sentir mas agradebles algunos momentos y otros mas tensos como de aburrimiento dependiendo de los agudos y graves con repeticion, mezclas de ritmos de fondo con resultados al azar que tiran las maquinas en su estado natural, como si se rayaran algunos discos y efectos como si actualmente se pusieran filtros de voz o de sonido
+En el disco escucho como golpes ritmicos y mecanicos, sonidos de televisor antiguo, voces con cambios radicales y muy duros en su hablado, estática, instrumentos y melodías con las que se pueden sentir mas agradebles algunos momentos y otros mas tensos como de aburrimiento dependiendo de los agudos y graves con repeticion, mezclas de ritmos de fondo con resultados al azar que tiran las maquinas en su estado natural, como si se rayaran algunos discos y efectos como si actualmente se pusieran filtros de voz o de sonido.
+
+## Desarrollo encargo parte 3
+
+Un avance significativo en este disco: Sound of Silver – Avances para la época (2007), sería el punto de como se mezcla lo electrónico con lo humano, ya que a diferencia de Kraftwerk, que se inclinaba hacia conseguir un sonido más mecánico, LCD Soundsystem logra combinar sintetizadores, instrumentos como la batería o el bajo, generando una sensación de que la música se siente.
+
+En ese momento, ya había más acceso a la tecnología digital, que permitió el trabajo con software de grabación junto a mesas de mezclas analógicas, obteniendo así un sonido híbrido que conjuga lo clásico con lo moderno. Con esto además se tuvo presente el uso de estructuras más repetitivas, propias de la música electrónica, pero con más modificaciones y cambios en las que las canciones no sean mecánicas.
+
+También destaca que el proyecto está muy marcado por la visión de James Murphy, quien tira más a las canciones desde un punto de vista emocional, más personal, propio de una música que no era tan habitual en la electrónica más anterior. Las letras y la forma de cantarcomo tal, aportan así una sensación más humana, más imperfecta más cercana.
+
+Por último, el disco muestra cómo a finales de la década de los noventa la música electrónica no sólo explora lo tecnológico o futurista, sino que también en lo emocional y cotidiano, parece un paso adelante que va desde lo experimental hacia algo más accesible, más cotidiano.
