@@ -46,6 +46,44 @@ Capacitor cerámico, no polarizado:
 
 ![chip](./imagenes/conexion-chip.jpg)
 
+![chip](./imagenes/1.png)
+
 ![lenguaje-condensador](./imagenes/lenguaje.jpg)
 
+![lenguaje-condensador](./imagenes/lenguaje.jpg)
+
+## Ejeercicio en clase
+
+Capacitor 1UF: La lucecita no parpadea.
+
+![conexion](./imagenes/lucecita2.jpg)
+
+Capacitor 10UF: La lucecita parpadea rápido.
+
 ![conexion](./imagenes/lucecita.gif)
+
+Capacitor 100UF: La lucecita parpadea lento.
+
+![conexion](./imagenes/lucecita3.gif)
+
+Capacitor 1UF+10UF: Pestañeaba la luz muy rápido
+
+![conexion](./imagenes/lucecita4.gif)
+
+Capacitor 100UF+10UF: Pestañaba la luz a velocidad media (segun yo entre la velocidad del de 100UF solo y el de 10UF)
+
+![conexion](./imagenes/lucecita5.gif)
+
+Capacitor 1UF+100UF: La luz pestañaba lento
+
+![conexion](./imagenes/lucecita6.gif)
+
+Capacitor 10UF+Potenciometro:
+
+![conexion](./imagenes/potenciometro.gif)
+![potenciometro](./imagenes/2.png)
+
+Capacitor 10UF+Fotoresistor:
+
+![conexion](./imagenes/fotoresistor.gif)
+![potenciometro](./imagenes/3.png)
