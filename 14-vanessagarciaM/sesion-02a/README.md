@@ -99,7 +99,58 @@ En este ejercicio se observó que solo R3 y R4 afectaban el funcionamiento del c
 **Resultados tabla lqxtlc** 
 
 ![resultados](./imagenes/resultados-lqxtlc.jpg)
- 
+
+___ 
+
+#### Encargo-02a Investigación Bandas Kraftwerk y LCD soundsystem
+
+**Avances de era y contexto de grabación Kraftwerk**
+
+A finales de los años 1970, la música experimentó un cambio decisivo, impulsada por los avances tecnológicos que por primera vez permitieron controlar el sonido con precisión mecánica. En el centro de este cambio estuvo el desarrollo de los sintetizadores: mientras que los sistemas modulares de la década anterior eran inestables y difíciles de operar, los instrumentos de esta era ofrecían una confiabilidad sin precedentes. Esta estabilidad técnica permitió a Kraftwerk trascender los simples experimentos sonoros para crear composiciones melódicas consistentes, utilizando la síntesis no sólo como un efecto decorativo sino como la arquitectura básica de canciones completas y estructuradas. 
+
+La fuerza impulsora detrás de esta nueva estética fue la mejora de los secuenciadores analógicos y las cajas de ritmos. Las secuencias permitieron programar patrones de notas automáticos y precisos, estableciendo la repetición matemática como el lenguaje esencial de la música electrónica moderna. Al mismo tiempo, las primeras cajas de ritmos, aunque todavía primitivas, permitieron generar pulsos constantes sin un baterista humano, reforzando la identidad sonora de "máquina" de la banda. Esta automatización fue la clave para que el ritmo dejara de ser una interpretación variable y se convirtiera en un ritmo constante y sintético. 
+
+La consolidación del concepto “hombre-máquina” alcanzó su máxima expresión sonora a través del vocoder, una herramienta que procesaba la voz humana para darle una textura robótica que desdibuja la línea entre lo orgánico y lo artificial. Al mismo tiempo, el estudio de grabación dejó de ser un simple espacio de grabación para convertirse en un instrumento en sí mismo. El uso creativo de cintas, bucles y efectos por parte de Kling Klang permitió ensamblar piezas complejas capa por capa, brindando a los músicos un control total sobre el resultado final. De esta manera, Kling Klang surgió como un laboratorio creativo donde los experimentos abstractos dieron paso al lenguaje de la música visionaria. Combinando la sensibilidad humana con los rigores de la tecnología, Kraftwerk no sólo definió el sonido de The Man-Machine, sino que también estableció la base técnica y conceptual sobre la que se construiría gran parte de la música actual, desde el techno hasta el pop electrónico global. 
+
+**Referencias** 
+
+Sound On Sound. (2025). Roland MC8. https://www.soundonsound.com/reviews/roland-mc8 
+
+Red Bull Music Academy. (2012). Interview: Kraftwerk. https://daily.redbullmusicacademy.com/2012/08/kraftwerk-interview/ 
+
+**Comparativa entre las actuaciones en vivo antiguas y actuales**
+
+En el video de 1978, la música se veía muy física y directa: los músicos usaban sintetizadores analógicos con consolas llenas de perillas, interruptores y cables a la vista. El sonido era cálido pero minimalista, y cada ritmo se sentía como los engranajes de una máquina industrial. Incluso el vocoder se usaba como un experimento, tratando de darle un efecto robótico a la voz humana, mostrando que todo el proceso dependía mucho del manejo manual y de la precisión de los músicos. 
+
+En la versión de 2025, todo ha cambiado gracias a la informática de alto rendimiento. Los músicos usan estaciones de control digitales elegantes y minimalistas conectadas a un enorme sistema de sonido. Ya no hay cables ni equipos visibles: el sonido se genera en un entorno virtual con una claridad y potencia increíbles, graves profundos y un control total sobre cada detalle. Aunque la interpretación sigue siendo en vivo, ahora la tecnología permite que cada parámetro esté perfectamente ajustado, ofreciendo una experiencia envolvente y precisa que sería imposible con los equipos de 1978. 
+
+**¿qué sentí?**
+
+En el disco The Man-Machine, lo que más me llama la atención son los sonidos robóticos que aparecen de forma intermitente, que dan la sensación de máquinas cobrando vida. Las notas agudas y prolongadas generan momentos de tensión, casi como si estuvieras escuchando un suspenso cuidadosamente calculado. Los ritmos constantes dominan gran parte del álbum, repitiéndose sin muchas variaciones, lo que refuerza la sensación de precisión mecánica y, a la vez, genera expectativa. Hay sonidos que recuerdan a pianos de música de terror que se perciben al fondo, y estos matices crean una atmósfera fría y melancólica; algunas melodías me provocan impaciencia, como si estuviera esperando que el ritmo cambiara o algo inesperado sucediera. A lo largo del disco, se mantiene una sensación de tensión sostenida, una especie de anticipación continua: no transmite tranquilidad, sino que mantiene al oyente en un estado de alerta, con la impresión de que algo está por ocurrir.
+
+**Avances de era y contexto de grabación LCD soundsystem**
+
+A mediados de la década de 2000, la música electrónica y alternativa experimentó una transformación caracterizada por la integración de tecnologías digitales avanzadas con instrumentos electrónicos tradicionales. Dirigido por James Murphy, LCD Soundsystem se destacó en la combinación de sintetizadores, percusión programada y producción híbrida para crear piezas estructuradas y emocionalmente expresivas. El uso de estaciones de trabajo digitales y software de producción permitió a la banda manipular con precisión loops, samples y secuencias, creando un sonido que combinaba la repetición mecánica de la electrónica con la sensibilidad humana de la interpretación en vivo. Este enfoque hizo del estudio de grabación un instrumento verdaderamente creativo donde cada capa de sonido podía desarrollarse, modificarse y ensamblarse hasta lograr la complejidad y coherencia de Sound of Silver. Un importante avance tecnológico de esta era fue la flexibilidad de la producción digital, que facilitó la creación de ritmos precisos, la edición de texturas y la combinación de elementos analógicos y digitales en un solo espacio. Tener estas herramientas disponibles permitió a Murphy y su equipo explorar nuevas formas de arreglar canciones y mantener un equilibrio entre la precisión electrónica y la expresión emocional. En este contexto, el trabajo de LCD Soundsystem representa cómo la tecnología pasó de ser una simple herramienta de grabación a convertirse en un motor de creatividad musical, estableciendo estándares de producción que influyeron en la danza contemporánea, la música electrónica y el rock, y consolidando un lenguaje sonoro que integra fluidamente a la humanidad y la máquina. 
+
+**Referencias** 
+
+Red Bull Music Academy. (2013). James Murphy. https://www.redbullmusicacademy.com/lectures/james-murphy 
+
+Reid, G. (2025). A journey through synthesizer history. Sound On Sound. https://www.soundonsound.com/people/journey-through-synthesizer-history
+
+**Comparativa entre las actuaciones en vivo antiguas y actuales**
+
+En el video de 2002, LCD Soundsystem toca “Losing My Edge” en un club pequeño, con James Murphy usando una computadora portátil y un sampler como sus principales herramientas. El sonido es más simple, un poco metálico y experimental, y todo depende de que Murphy controle los ritmos y los loops mientras toca, haciendo que la actuación se sienta íntima y casi casera. 
+
+En cambio, en el video de 2024, la banda interpreta “All My Friends” frente a una enorme audiencia, y la tecnología hace que todo suene mucho más potente y claro. Los sintetizadores modernos, los efectos digitales y los sistemas de mezcla permiten que cada instrumento y voz se escuchen perfectamente, incluso en un espacio para 100.000 personas. Además, los patrones de ritmo y los loops funcionan sin errores, manteniendo la canción precisa y potente durante toda la interpretación. La diferencia no es solo el tamaño del público, sino que ahora la banda puede combinar el caos de tocar en vivo con la precisión de la electrónica, creando un espectáculo mucho más impactante que en 2002. 
+
+**¿qué sentí?**
+
+Al escuchar Sound of Silver, algunas canciones me generan una sensación de energía y motivación, como si me impulsaran a ser productiva o a moverme al ritmo de la música. Los ritmos electrónicos repetitivos y los bajos profundos crean un pulso constante que invita a moverse y a conectar con el ritmo de manera casi física. Otras canciones, en cambio, transmiten tranquilidad y serenidad; su sonido invita a relajarse y disfrutar del momento, como si todo lo demás dejara de importar por un instante. Al imaginar un escenario para estas canciones, se percibe un ambiente más cálido y acogedor, donde la música envuelve suavemente y se siente ligera, transmitiendo la sensación de que no hay preocupaciones. 
+
+
+
+
 
  
 
