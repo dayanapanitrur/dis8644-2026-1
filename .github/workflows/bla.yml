@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: piruetasxyz/nombresArchivos@v0.0.1
+      - uses: piruetasxyz/nombresArchivos@v0.0.2
 
 
