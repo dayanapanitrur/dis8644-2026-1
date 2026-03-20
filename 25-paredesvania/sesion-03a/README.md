@@ -19,3 +19,13 @@ No importa si coloco la **resistencia** en el **positivo o el negativo**. La res
 **Fotoresistor:** Según gemini, Un fotoresistor, fotorresistencia o LDR (Light Dependent Resistor) es un componente electrónico semiconductor cuya resistencia eléctrica varía según la cantidad de luz que incide sobre él. Funciona como un sensor de luz: a mayor luz, su resistencia disminuye, y a mayor oscuridad, su resistencia aumenta.
 
 ![fotoresistor](./imagenes/fotoresistor.webp)
+
+### Topología
+
+* Según gemini: La topología es la rama de las matemáticas que **estudia las propiedades de los objetos geométricos** que permanecen inalteradas al deformarlos, estirarlos o doblarlos, sin romperlos ni unirlos (homeomorfismo). **Se centra en la conectividad y el número de agujeros** (género), considerando iguales figuras con distinta forma pero misma estructura topológica. 
+
+* _**Taza igual a dona (toro):**_ En topología, una taza y una dona son equivalentes porque ambas tienen exactamente un agujero (el asa de la taza y el centro de la dona). Si estuvieran hechas de plastilina, se puede moldear una en la otra sin cortarla, lo que las hace homeomorfas, o sea, la misma figura. 
+
+* _**Pantalón igual a infinito:** _La equivalencia de un pantalón (o cualquier figura con dos agujeros) con un "ocho" o el símbolo de infinito también se basa en la flexibilidad topológica.
+
+![topología](./imagenes/topologia.webp)
