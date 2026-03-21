@@ -45,6 +45,7 @@ Grafo (topologia)
 
 **Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
 
+**circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
 
 ### imagenes de proceso
 
@@ -137,6 +138,8 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 **Capacitor electrónico:** Es un dispositivo pasivo (no genera energía por sí mismo) que almacena energía en un campo eléctrico. Consiste en dos placas conductoras separadas por un material dieléctrico. Este diseño permite acumular carga eléctrica en las placas, creando así una diferencia de potencial. Hay de 1, 10, 100 μF
 
 **Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
+
+**circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
 
 
 
