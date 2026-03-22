@@ -6,6 +6,31 @@ Se nos entregó el chip NE555P, el cual es un circuito integrado (IC) que se uti
 
 ![Dibujo de chip NE555P](./imagenes/ne555.jpg)
 
+También se nos introdujo a los capacitores (o condensadores), en donde aprendimos que existen los capacitores electrolíticos que son polarizados, y los capacitores cerámicos que no tienen polarización. Para poder identificar el lado negativo de un capacitor electrolítico sin ver las patas uno puede guiarse por el lado gris con líneas que tiene a un costado, el cual indica que ese lado es el negativo.
+
+En el caso del capacitor electrolítico, se nos entregaron tres distintos:
+
+- Capacitor 1μF, 50V
+- Capacitor 10μF, 50V
+- Capacitor 100μF, 50V
+
+Mientras que en el caso de los capacitores cerámicos, se nos entregó uno que parece una lenteja, el cual tiene el número 104 escrito junto a un punto sobre el texto.
+
+Luego de introducirnos los capacitores y el chip, nos enseñaron cómo utilizar el chip y los capacitores dentro de un circuito, por lo que hicimos el siguiente ejercicio:
+
+![Circuito con chip NE555P](./imagenes/circuito-ne555.jpg)
+
+| Letra | Significado |
+| --- | --- |
+| R(n) | Resistencia, el (n) es el número para poder identificarla, mientras que al lado de esto se indica de cuánto es la resistencia (1k, 10k en éste caso)|
+| C(n) | Capacitor/Condensador, el (n) es el número para poder identificarlo, mientras que al lado de esto se indica de cuánto es el capacitor/condensador (10mF, 100mF en este caso)|
+| D | LED |
+| +9 | Positivo de la batería 9V |
+
+Como no sabíamos como leer el circuito que nos mostraron, nos fueron guiando mientras armábamos el circuito en nuestra protoboard, en donde aprendí que los puntos que se ven entre los cables significan que se unen/encuentran. Al terminar, la protoboard se veía así:
+
+![Circuito con NE555P y capacitor 10μF en protoboard](./imagenes/circuito-en-protoboard.jpg)
+
 ---
 
 ### Capacitor de 10μF
