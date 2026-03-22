@@ -45,9 +45,10 @@ de una mujer en el documental, la cual me llamó la atención
 desde el primer momento que la escuché y la vi.
 
 La compositora, **Suzanne Ciani.** 
+
 **Que siempre tenía una pierna en el presente y otra en el futuro.**
 
-<img src="https://www.self-titledmag.com/wp-content/uploads/2014/04/lixiviation-4-1024x682.jpg" alt="Imagen" width="50%">
+![Suzanne Ciani](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/img-1.jpg)
 
 Empresaria, compositora y productora musical, y artista 
 experimental, nacida el 4 de junio de 1946 en Indianápolis (USA) 
@@ -82,7 +83,7 @@ sintetizadores “Don Buchla”:
 
 (El sintetizador Buchla)
 
-<img src="https://www.futuremusic-es.com/wp-content/uploads/2016/09/Don_Buchla_historico_oficial_modular_750px.jpg" width="300">
+![El sintetizador Buchla](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/img-2.jpg)
 
 Y fue con este sintetizador donde comenzó la magia musical.
 
