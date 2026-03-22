@@ -1,5 +1,7 @@
 # sesion-02a
 
+martes 17 marzo 2026
+
 ## Circuito básico
 
 ![Circuito básico](./imagenes/circuito-basico.png)

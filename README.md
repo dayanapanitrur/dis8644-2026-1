@@ -12,9 +12,9 @@
 | :------------------------------- | :--------- | :--------------------------------------------------- |
 | [01a](./00-docentes/sesion-01a/) | 03-10 mar  | introducción a máquinas electrónicas                 |
 | [01b](./00-docentes/sesion-01b/) | 03-13 vie  | github, markdown, protoboard, LED, resistores        |
-| [02a](./00-docentes/sesion-02a/) | 03-17 mar  | baterías, resistores en paralelo y serie             |
-| [02b](./00-docentes/sesion-02b/) | 03-20 vie  |                                                      |
-| [03a](./00-docentes/sesion-03a/) | 03-24 mar  |                                                      |
+| [02a](./00-docentes/sesion-02a/) | 03-17 mar  | entrega materiales, resistores en paralelo y serie   |
+| [02b](./00-docentes/sesion-02b/) | 03-20 vie  | esquemáticos, circuitos integrados, chip 555         |
+| [03a](./00-docentes/sesion-03a/) | 03-24 mar  | parlantes y sonido                                   |
 | [03b](./00-docentes/sesion-03b/) | 03-27 vie  |                                                      |
 | [04a](./00-docentes/sesion-04a/) | 03-31 mar  |                                                      |
 | [04b](./00-docentes/sesion-04b/) | 04-03 vie  | no hay clases, día feriado                           |
