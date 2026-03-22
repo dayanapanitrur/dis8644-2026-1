@@ -86,9 +86,32 @@ Capacitor 10UF+Fotoresistor:
 ![conexion](./imagenes/fotoresistor.gif)
 ![potenciometro](./imagenes/3.png)
 
-## encargo-02b
+### encargo-02b
 
 1. ordenar las bitácoras de cada sesión, incluyendo las imágenes de forma ordenada.
 2. practicar cualquiera de las materias que hayamos visto que creas que necesites, dejar ese registro en la bitácora 02b como respuesta a este encargo.
 3. escribir en la bitácora de hoy al menos 10 preguntas para la próxima sesión, sobre cualquier tema que hayamos revisado o mencionado. pueden ser preguntas técnicas, conceptuales, de diseño, etc. todas las preguntas son bienvenidas.
 
+#### práctica personal
+me enfoqué en entender mejor lo del capacitor porque al principio no me hacía tanto sentido por qué cambiaba la velocidad del led
+lo que entendí ahora es que el capacitor funciona como una mini “batería” temporal:
+
+se carga con energía y después se descarga, ese proceso de cargar y descargar es lo que hace que el led prenda y se apague
+entonces:
+* si el capacitor es chico -> se carga y descarga rápido -> el led parpadea rápido
+* si el capacitor es grande -> se demora más en cargarse -> el led parpadea lento
+
+por eso cuando cambiábamos los UF en clase, cambiaba la velocidad
+
+#### Preguntas para la próxima clase
+
+1. cómo se calcula el tiempo exacto de parpadeo con el chip 555?
+2. cómo afecta el voltaje al comportamiento del circuito?
+3. hay un límite de capacitores que se puedan usar?
+4. cómo elegir el capacitor correcto según lo que quiero lograr?
+5. el fotoresistor puede reemplazar una resistencia normal?
+6. hay más formas de controlar el parpadeo?
+7. se puede hacer que el parpadeo no sea constante?
+8. qué otros sensores se pueden usar en este tipo de circuitos?
+9. cómo hacer que el cambio de luz sea más suave y no tan brusco?
+10. cómo hacer que el circuito tenga distintos ritmos y no solo uno?
