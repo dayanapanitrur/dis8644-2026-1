@@ -78,3 +78,22 @@ Se nos entregaron unos fotorresistores (LDR), los cuales no tienen polaridad. La
 #### Fotorresistor y capacitor de 100μF
 
 ![Fotorresistor con capacitor de 100μF](./imagenes/fotorresistor-100uf.gif)
+
+---
+
+## Encargo
+
+Personalmente, nunca me ha ido bien en las cosas que involucran cálculos (saqué 528 puntos en la PAES M1), mucho menos en física a pesar de que la disfrutaba ya que solo tenía que seguir fórmulas que por alguna razón nunca me salían bien, por lo que quiero trabajar en ésto haciendo ejercicios de la ley de ohm, ya que tendremos que ver estas formulas y ejercicios durante todo el semestre por lo que me niego a seguir con el mismo nivel de resolución de ecuaciones. Para ésto, buscaré ejercicios en google y los resolveré en mi bitácora física por comodidad. Estos son los resultados:
+
+#### 10 Preguntas
+
+- ¿Hay alguna manera de conectar el parlante con el chip NE555P para que haga sonidos de manera intermitente así como parpadeaba el LED?
+- ¿Cómo podemos saber qué resistencias usar?, es decir, al momento de hacer crear nuestro propio circuito, ¿hay que sumar la corriente total de todo lo que queremos usar o tenemos que ir calculando componente por componente?
+- En Interacciones Inalámbricas mencionó que dejó sugerencias en algunos apuntes de github, ¿eso también lo hace en taller?, de ser así, ¿dónde lo podemos ver?
+- 
+-
+-
+-
+-
+-
+-
