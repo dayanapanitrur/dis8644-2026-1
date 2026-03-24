@@ -76,7 +76,7 @@ Cuero
  
 ### Ejercicio 1
 
-![primer ejercicio](./imagenes/Ejercicio_1.jpeg)
+![primer ejercicio](./imagenes/ejercicio-1.jpg)
 
 | loquitoportilocoloco  | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
@@ -88,7 +88,7 @@ Cuero
 
 ### Ejercicio 2
 
-![tercer ejercicio](./imagenes/Ejercicio_3.jpeg)
+![tercer ejercicio](./imagenes/ejercicio-3.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  |
 | -------------------- | --- | --- | --- |
@@ -103,7 +103,7 @@ Cuero
 
 ### Ejercicio 3
 
-![segundo ejercicio](./imagenes/Ejercicio_2.jpeg)
+![segundo ejercicio](./imagenes/ejercicio-2.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  | D4  |
 | -------------------- | --- | --- | --- | --- |
