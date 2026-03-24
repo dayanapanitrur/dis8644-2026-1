@@ -1,58 +1,105 @@
-# Sesion-01a
-
-## Analisis de el documental - Sister with transistors
-
-### SISTERS WITH TRANSISTORS - APUNTES
-
-- Música digital – vanguardista  
-- Clara Rockmore → tocaba este inst.  
-- Tocaba un instrumento que no se toca  
-- Deva Durbishire 1965  
-- Uso de sonidos con tecnologías  
-- Electrónica – sonidos básicos  
+# Taller de Informática  
+## Diseño de Máquinas Electrónicas
 
 ---
 
-### Clara Rockmore (1911 – 1998)
+## ¿Qué es un circuito eléctrico?
 
-Clara Rockmore fue una músico famosa por ser la mujer intérprete de Theremin, uno de los primeros instrumentos electrónicos de la historia, se toca con las manos y sin tocar físicamente. Es el movimiento de sus manos con la reaccion de ondas electromagneticas las que generan la experiencia.  
+Un circuito eléctrico es un conjunto de elementos conectados entre sí que permiten el paso de la corriente eléctrica para realizar una función, como encender una luz o hacer funcionar un dispositivo.
 
-Algunos datos interesantes de ella es que fue una niña prodigio en el violín.  
-Debido a una enfermedad en los huesos tuvo que dejar el violín, lo que curiosamente la llevaron a crear / mejorar este instrumento. Diseño para hacerlo más preciso y musical junto con Leon Theremin.  
-
----
-
-#### EL THEREMIN
-
-Se controla con dos antenas y que con una mano controlan la altura del sonido (pitch) y con la otra controla el volumen. Esto genera un sonido etéreo y fantasmagórico. Eso funciona como una voz de un violín fantasmal a pesar de su vibrato fantasma y peculiar, para ello debe interpretar música clásica ya que solo efectos lo único extraño lo cual conduce a hacer la parte sonora de la música electrónica interpretada en vivo. Trabajó con Léon Theremin, para mejorar el diseño del instrumento ajustándole los gestos de sensibilidad al tono y presión de las antenas.  
+Para que funcione correctamente, el circuito debe estar cerrado es decir, la corriente debe poder circular sin interrupciones.
 
 ---
 
-#### Taller de informatica Diseño de maquinas electronicas
+## Componentes de un circuito eléctrico
 
-Los circuitos electricos estan compuestos de diferentes tipo de piezas. Algunas de ellas son: cables, bateria, resistencia, led, potenciometro, broche de bateria.  
+### Elementos básicos
 
-Existen circuitos paralelos, circuito cerrado, circuito abierto, circuito de serie, circuito mixto.  
+- Cables: permiten el paso de la corriente eléctrica entre los componentes.  
+- Batería: fuente de energía que suministra electricidad al circuito.  
+- Resistencia: regula o limita el paso de la corriente.  
+- LED : emite luz cuando pasa corriente eléctrica.  
+- Potenciómetro: permite variar la cantidad de corriente (por ejemplo, controlar el brillo o el volumen).  
+- Broche de batería: conecta la batería al circuito de forma segura.  
 
 ---
 
-##### Materiales
+## Tipos de circuitos eléctricos
 
-**Conductores**  
-Hierro  
-Plata  
-Oro  
-Cobre  
-Aluminio  
+### Circuito cerrado
+Es aquel en el que la corriente puede circular completamente.  
+Ejemplo: una ampolleta encendida.
 
-**Aislantes**  
-Vidrio  
-Tierra  
-Plastico  
-Madera  
-Cuero  
+---
 
-             
+### Circuito abierto
+La corriente no puede circular porque existe una interrupción.  
+Ejemplo: un interruptor apagado.
+
+---
+
+### Circuito en serie
+Los componentes están conectados uno tras otro.
+
+Características:
+- La corriente es la misma en todo el circuito.  
+- Si un componente falla, todo el circuito deja de funcionar.  
+
+---
+
+### Circuito en paralelo
+Los componentes están conectados en diferentes ramas.
+
+Características:
+- Si un componente falla, los demás continúan funcionando.  
+- Es el tipo de circuito utilizado en las instalaciones del hogar.  
+
+---
+
+### Circuito mixto
+Combina circuitos en serie y en paralelo.  
+Se utiliza en sistemas eléctricos más complejos.
+
+---
+
+## Materiales Aislantes y Conductores. 
+
+### Conductores
+Son materiales que permiten el paso de la corriente eléctrica con facilidad.
+
+- Hierro  
+- Plata  
+- Oro  
+- Cobre  
+- Aluminio  
+
+Ejemplo: cables eléctricos.
+
+---
+
+### Aislantes
+Son materiales que impiden el paso de la corriente eléctrica.
+
+- Vidrio  
+- Tierra  
+- Plástico  
+- Madera  
+- Cuero  
+
+Ejemplo: recubrimiento de cables.
+
+---
+
+## Seguridad eléctrica
+
+- Evitar tocar cables pelados.  
+- No mezclar agua con electricidad.  
+- Utilizar materiales aislantes para protección.  
+- Revisar las conexiones antes de encender un circuito.  
+
+
+
+
 
      
                    

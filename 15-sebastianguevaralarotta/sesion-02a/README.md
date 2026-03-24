@@ -61,9 +61,7 @@ Al final más que memorizar resultados, lo importante fue leer el circuito como 
 
 ## Primera impresión
 
-Kraftwerk me da la sensación de estar viendo y escuchando algo súper controlado, casi como si todo estuviera diseñado en una grilla. No es solo música, es como una estética completa donde el sonido, la imagen y la actitud van juntos. Algunos apuntes que tome mientras la veia los anote aca, separandolos en puntuaciones ya que para disfrutarlo mas me enfoque en tomar apuntes en lo que me llamara mas la atencion. Como un tipo de performance constante que cada detalle cuenta.
-
-Todo se siente medio frío, pero a la vez muy intencional como minimalista pero conceptual.
+Kraftwerk me da la sensación de estar viendo y escuchando algo súper controlado, casi como si todo estuviera diseñado en una grilla. No es solo música, es como una estética completa donde el sonido, la imagen y la actitud van juntos. Algunos apuntes que tome mientras la veia los anote aca, separandolos en puntuaciones ya que para disfrutarlo mas me enfoque en tomar apuntes en lo que me llamara mas la atencion. Como un tipo de performance constante que cada detalle cuenta. Todo se siente medio frío, pero a la vez muy intencional como minimalista pero conceptual.
 
 ---
 
@@ -101,9 +99,7 @@ Los robots en escena no son solo decoración:
 - No expresan nada
 - Se mueven todos igual
 
-Es como si el humano desapareciera y quedara solo la máquina Igual conecta mucho con la idea de futuro, pero no un futuro feliz, más como controlado.
-
-También siento que es súper coherente con su música, porque todo es repetitivo y preciso, casi sin error.
+Es como si el humano desapareciera y quedara solo la máquina Igual conecta mucho con la idea de futuro, pero no un futuro feliz, más como controlado, también siento que es súper coherente con su música, porque todo es repetitivo y preciso, casi sin error.
 
 ---
 
@@ -115,10 +111,6 @@ Lo repetitivo al principio parece simple, pero después te atrapa: Te mete en un
 
 ## Conclusión
 
-Siento que Kraftwerk no solo hace música electrónica, sino que propone una forma de ver el mundo.
-
-En "The Model" se nota mucho esto de la imagen como producto, súper ligado a la moda.
-Y en "We Are The Robots" ya es más extremo, como que el humano se transforma en máquina.
-
-Al final todo conecta:
+Siento que Kraftwerk no solo hace música electrónica, sino que propone una forma de ver el mundo. En "The Model" se nota mucho esto de la imagen como producto, súper ligado a la moda.
+Y en "We Are The Robots" ya es más extremo, como que el humano se transforma en máquina. Al final todo conecta:
 sonido, ropa, performance, visuales… todo funciona como un mismo concepto algo muy vanguardista para la epoca. 
