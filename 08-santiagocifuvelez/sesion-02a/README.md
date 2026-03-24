@@ -20,7 +20,18 @@ Con la cuota de dinero que dimos a la clase, los profesores y ayudantes del aula
 
 ![profes <3](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img1.jpg)
 
-## 2.	Resistencias, colores y uso.
+## 2.	Resistencias, uso, y colores.
+
+#### ¿Qué son? 
+Las resistencias son componentes electrónicos que se oponen al paso de la corriente eléctrica. En simple: hacen que la electricidad no fluya “tan libremente”.
+
+#### ¿Para qué sirven?
+1. Limitar la corriente (lo más importante)
+Evitan que otros componentes se quemen.
+Por ejemplo, un LED sin resistencia se puede dañar porque recibe demasiada corriente.
+
+2. Controlar voltaje
+Permiten “repartir” el voltaje en un circuito (como en el ejemplo que nos hizo el profe; es como si bajaras la presión del agua en una manguera).
 
 
 ## Entrega de ejercicios
