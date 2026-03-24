@@ -15,5 +15,6 @@ vimos los efectos de cambiar una resistencia y un capacitor en el circuito, y c�
 ## encargo-03a
 
 1. expandir el circuito usado, agregando más interruptores para crear el circuito toy organ disponible en <https://www.555-timer-circuits.com/toy-organ.html>. otra versión del circuito se incluye a continuación, diagramada por misaa hoy. documentar todos los aciertos y errores en la bitácora.
+2. ver documental variaciones espectrales sobre la vida de josé vicente asuar, disponible en <<https://www.youtube.com/watch?v=sJ9EZWBZee8>. incluir apuntes e investigación asociada a la bitácora.
 
 ![imagen del circuito toy organ](./imagenes/toy-organ.png)
