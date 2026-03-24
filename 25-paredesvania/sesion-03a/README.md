@@ -21,6 +21,8 @@ En la onda que se produce con el sonido, lo que **suena** en el parlante es **cu
 
 ![ondas](./imagenes/frecuencia.avif)
 
+![ejercicio](./imagenes/ejercicio9.gif)
+
 ### Amor
 
 La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poética popular que sugiere que el amor verdadero es eterno, incondicional y perdura más allá de la muerte física. Aunque lingüísticamente se considera falsa (mezcla prefijo griego 'a-' con latín 'mors'), simboliza la inmortalidad del sentimiento.
@@ -34,3 +36,4 @@ La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poét
 
 * **Switch:** controlan el flujo de corriente para encender/apagar cargas.
 * **Temporales:** automatizan este proceso basándose en el tiempo.
+
