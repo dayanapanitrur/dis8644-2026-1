@@ -21,8 +21,6 @@ En la onda que se produce con el sonido, lo que **suena** en el parlante es **cu
 
 ![ondas](./imagenes/frecuencia.avif)
 
-![ejercicio](./imagenes/ejercicio9.gif)
-
 ### Amor
 
 La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poética popular que sugiere que el amor verdadero es eterno, incondicional y perdura más allá de la muerte física. Aunque lingüísticamente se considera falsa (mezcla prefijo griego 'a-' con latín 'mors'), simboliza la inmortalidad del sentimiento.
@@ -41,8 +39,19 @@ La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poét
 
 #### Encargo
 
-<https://www.555-timer-circuits.com/toy-organ.html>
+1. expandir el circuito usado, agregando más interruptores para crear el circuito toy organ disponible en <https://www.555-timer-circuits.com/toy-organ.html>. otra versión del circuito se incluye a continuación, diagramada por misaa hoy. documentar todos los aciertos y errores en la bitácora.
 
-![boton](./imagenes/circuitotema.png)
+![boton](./imagenes/circuitotema.png)ç
+
+2. ver documental https://www.youtube.com/watch?v=sJ9EZWBZee8, incluir apuntes e investigación asociada a la bitácora.
+
+Pensé que sería mas difícil para mi el aprender a leer estos circuitos, pero la veerdad se que no jaja y eso me hace muy feliz porque me siento súper capaz :D, tuve un problema al principio, el circuito no sonaba, había conectado mal el cable que venía desde el pin 7 del chip, lo puse antes de la resistencia, debería haber ido después, misa me ayudó a encontrar el error, y se arregló y sonó estupendo.
+
 ![boton](./imagenes/temazo.jpg)
 ![boton](./imagenes/musica.mov)
+
+Además al circuito que hicimos en clase, probé añadiéndole un LED y quedo hermoso.
+
+![ejercicio](./imagenes/ejercicio9.gif)
+
+
