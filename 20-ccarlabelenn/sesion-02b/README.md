@@ -22,3 +22,7 @@ nos entregaron capacitadores!!
 ## ejercicio 555 (chip 555)
 
 ![segunda-hoja](./imagenes/segunda-hoja.jpeg)
+
+## codigo de colores de resistencia 
+
+![resistencias](./imagenes/resistencias.jpeg)
