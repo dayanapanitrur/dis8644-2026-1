@@ -2,7 +2,7 @@
 
 **24-03-2026**
 
-##Apuntes de clase
+## Apuntes de clase
 
 Artista chileno @Sokio en Instagram
 
@@ -32,7 +32,7 @@ La oscilación ocirre en la patita del chip (oscilacion estar entre prendido y a
 
 osea que el 555 está respirando segun la energia que uno le da y sellama 555 porque tiene dentro 3 resistencias casi de 5 kilos, Buscar How a 555 Timer clip work GIF
 
-###Vamos a jugar con el Output
+### Vamos a jugar con el Output
 
 llegar al punto con luz y sin luz
 
@@ -45,7 +45,7 @@ Impotan los colores de los cables y el espacio con la distribución
 Hacemos que este chip genera energia electrica que golpea los imanes de la bocina y la convierte en energía mecánica
 
 
-###experimento del profe
+### experimento del profe
 
 **conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)**
 
@@ -69,7 +69,7 @@ Lo que nosotros escuchamos es el cambio de sonido
 
 OVCC significava VOLTAGE DE CORRIENTE DIRECTA o Voltaje positivo y GND Tierra o Negativo
 
-###interruptor 
+### interruptor 
 
 Interruptur hay switch y temporal
 
@@ -99,7 +99,9 @@ Trabajé junto a mi compañero Tomás Catrileo para tener un total de 2 botones 
 hicimos las ruebas en en TINKERCAD para entenderlo y luego desarrollarlo en físisco
 acá imagens de como tiramos el boceto y luego siguiendo el esquema dado por los profesores llegamos al resultado final
 
-aaaaaaaaaaaaaaa
+Matuvimos y repasamos el circuito aprendido en clase e hicimos el inteto siguiendo el nueco esqueme da agregarle los 2 switches mas las resistencias
+
+![ejemplo 1](./imagenes/ejercicio01.jpeg)
 
 Documental: Variaciones Espectrales
 ---
