@@ -36,6 +36,8 @@ Menor frecuencia → sonido más grave
 - Potenciómetro → control manual
 - 555 → genera señal
 
+![circuito con parlante](./imagenes/circuitoconparlante.jpg)
+
 ### Encargo
 
 ver documental https://www.youtube.com/watch?v=sJ9EZWBZee8, incluir apuntes e investigación asociada a la bitácora.
