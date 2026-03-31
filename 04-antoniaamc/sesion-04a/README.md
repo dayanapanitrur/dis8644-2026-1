@@ -1,12 +1,12 @@
 # sesion-04a
 
-Completar - arreglar
+* Completar - arreglar
 
 Flip Flop 
 Qué es
 ejemplo minecraft
 
-Medida resistencias (Ohm)
+*** Medida resistencias (Ohm)
 + 1.000.000.000: Giga
 + 1.000.000: Mega
 + 1.000: Kilo
