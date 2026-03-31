@@ -15,6 +15,8 @@ Departamento de estudios humanísticos (DEH)
 
 - Misaa
 
+En esta clase nos dedicamos más a realizar circuitos, solo me resultó el primer ejercicio de la primera parte de la clase y lo pude resolver medianamente sola. Leí bien la mayoría de las partes, pero cabe destacar que aprendimos a realizar un circuito monoestable que sirve para mostrar luz y el astable es el que logra hacer sonido. 
+
 ### imagenes de proceso
 
 ### post-clase
