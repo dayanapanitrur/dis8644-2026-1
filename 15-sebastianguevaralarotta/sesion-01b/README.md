@@ -1,6 +1,6 @@
 # sesion-01b
 
-## encargo-01b: The Internet’s Own Boy  
+## Encargo-01b: The Internet’s Own Boy  
 
 ## Taller de Informática – Diseño de Máquinas Electrónicas
 
