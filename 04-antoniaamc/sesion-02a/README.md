@@ -6,20 +6,23 @@
 Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una **grabación electrónica revolucionaria**, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “*I Feel Love*” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
 
 Audio Media Internacional 
-https://audiomediainternational.com/deep-cuts-kraftwerk-synths/#:~:text=CONTENIDO%20EXTRA:%20M%C3%81S%20SINTETIZADORES%20Y%20EFECTOS%20DE%20KRAFTWERK&text=Los%20ritmos%20se%20reproduc%C3%ADan%20electr%C3%B3nicamente,equipos%20que%20nadie%20m%C3%A1s%20ten%C3%ADa. 
+<https://audiomediainternational.com/deep-cuts-kraftwerk-synths/#:~:text=CONTENIDO%20EXTRA:%20M%C3%81S%20SINTETIZADORES%20Y%20EFECTOS%20DE%20KRAFTWERK&text=Los%20ritmos%20se%20reproduc%C3%ADan%20electr%C3%B3nicamente,equipos%20que%20nadie%20m%C3%A1s%20ten%C3%ADa.>
 
 El título Autobahn, traducido al español como “*autopista*”. Hace alusión a la “*Bundesautobahn*”, red de autopistas federales de Alemania. Esta es considerada como uno de los orgullos del país, con sus casi 13.000km de vías gratuitas que permiten la **interconectividad con Europa sin límite de velocidad** (en aproximadamente 70% de su extensión).
 
 
 ### Arte de portada obtenida de Philips Records.
-https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-cover.jpg 
+
+![autobahn](./imagenes/autobahn-kraftwerk-cover.jpg)
+
+<https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-cover.jpg>
 
 
 ### Portada Autobahn (Remasterizda 2009)
 
 ![autobahn](./imagenes/autobahn-2009.jpg)
 
-https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36 
+<https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36>
 
 
 ## Reseña: 
@@ -30,10 +33,10 @@ Al partir me pareció un poco intimidante por lo mucho que dura la primera canci
 
 Autobahn muestra una evolución de la música electrónica planteando nuevas perspectivas y experimentaciones con la evocación a la autopista alemana mediante el uso de sintetizadores para recrear el tráfico, vehículos y velocidad. El crítico Lynn Van Matre (del Chicago Tribune en 1975) describe el álbum como “simplemente una impresión de sonidos y percepción sensorial del camino”
 
-https://www.newspapers.com/article/the-bradenton-herald-kraftwerk-autobahn/92684847/  
+<https://www.newspapers.com/article/the-bradenton-herald-kraftwerk-autobahn/92684847/>
 
 
-El álbum fue grabado principalmente con sintetizadores y caja de ritmo, con el uso ocasional de distintos instrumentos como flauta y guitarra. 
+**El álbum fue grabado principalmente con sintetizadores y caja de ritmo, con el uso ocasional de distintos instrumentos como flauta y guitarra.**
 
 
 
