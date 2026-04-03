@@ -49,4 +49,6 @@ Cuando se utilizan parlantes en un circuito, es importante poder controlar la fr
 
 At the end of the day, si funcionó *(literalmente al final de la clase).*
 
+![aquí el ejercicio funcionó](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/toyorgan.jpeg)
+
 ## 5. Apuntes del documental “variaciones espectrales sobre la vida de José Vicente Asuar”.
