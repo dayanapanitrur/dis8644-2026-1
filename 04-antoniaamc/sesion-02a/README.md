@@ -2,7 +2,7 @@
 
 # Autobahn
 
-![autobahn](./imagenes/autobahn_2009.jpg)
+![autobahn](./imagenes/autobahn-2009.jpg)
 
 Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una **grabación electrónica revolucionaria**, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “*I Feel Love*” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
 
