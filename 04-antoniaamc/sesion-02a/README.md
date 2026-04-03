@@ -18,7 +18,7 @@ Mi protoboard:
 
 El de mi compañera Luisa: 
 
-![circuito](./imagenes/sesion-02-a-circuito5)
+![circuito](./imagenes/sesion-02-a-circuito5.jpeg)
 
 nota: que divertido me emocioné ;)
 
