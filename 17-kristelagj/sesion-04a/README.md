@@ -51,6 +51,8 @@ Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no 
 
 Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
 
+-------------------------
+
 Dividi en 4 secciones la PCBA:
 
 - Zona 1
