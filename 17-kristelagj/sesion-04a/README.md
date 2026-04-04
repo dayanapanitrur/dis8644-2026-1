@@ -209,4 +209,5 @@ desde J1 a J20 siguen conectados previamente hasta CD con L y R.
 3. Las E solo estan soladadas
 4. El equipo tiene otra PCBA pero esta en vertical la cual sus LED estan hacia afuera. Logro apreciar que tiene condenzadores no polarizados, LED, circuitos integrados de 8 pins, 14 pins y resistencias.
 5. Me gusta el diseño de los sectores, muy microdesign
+6. Hay una entrada de cable que tienen una conexión con la placa de cables que es GND
 
