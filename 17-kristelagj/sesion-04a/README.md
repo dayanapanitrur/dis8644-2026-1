@@ -196,9 +196,7 @@ J29, J27, J28, J30 dirigen el transformador toroidal al encendido o apagado adem
 
 (Todo lo de adelante se refleja en otros con cables)
 
-J23, J24, J25, J26 (balancean el output)
-↓          ↓
-Left       Right
+J23, J24 (LEFT), J25, J26 (RIGTH) (balancean el output)
 
 desde J1 a J20 siguen conectados previamente hasta CD con L y R.
 
