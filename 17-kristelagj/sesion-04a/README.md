@@ -101,6 +101,15 @@ Condensadores:
 
 Resistencias:
 
+| # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
+|---|--------|--------|--------|--------|--------|--------|
+| 1 | rojo   | café   | dorado | negro  | verde  | naranja |
+| 2 | rojo   | café   | rojo   | negro  | negro  | café   |
+| 3 | rojo   | café   | negro  | café   | rojo   | rojo   |
+| 4 | rojo   | café   | dorado | café   | rojo   | rojo   |
+| 5 | rojo   | café   | negro  | blanco | amarillo | rojo |
+| 6 | rojo   | café   | naranja| blanco | blanco | amarillo |
+
 Condensadores:
 
 - Zona 4
