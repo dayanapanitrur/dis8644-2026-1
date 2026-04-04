@@ -74,6 +74,8 @@ Condensadores:
 | 2 | 100 µF      | 35 V   |
 | 3 | 220 µF      | 63 V   |
 
+Los demás componentes:
+
 | Símbolo | Tipo de componente        | Descripción / Modelo        |
 |--------|--------------------------|----------------------------|
 | E      | Entradas                 | modelo                     |
