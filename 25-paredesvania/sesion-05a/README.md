@@ -1,6 +1,6 @@
 # sesion-05a 7.04
 
-## Operadores logicos
+## Operadores lógicos
 
 La NAND hace siempre uno, a no ser que le den dos unos, ahí, da cero.
 
