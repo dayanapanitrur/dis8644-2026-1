@@ -4,6 +4,8 @@
 
 ### Compuertas lógicas ###
 
+[Hablar sobre sus partes, tales como las entradas inversoras]
+
 #### Algebra de Bool ####
 
 ### Chips 4093 - 386 ###
@@ -34,9 +36,15 @@
 
 ### Moritz Klein ###
 
+[https://moritzkleininstruments.com/]
+
 #### Manuales ####
 
+[https://moritzkleininstruments.com/] [Incluir el manual]
+
 #### Videos ####
+
+[Hablar de su canal de Youtube]
 
 ## Ejercicios Aplicados ##
 
