@@ -14,14 +14,13 @@
 - Virtual VCT
 - Midi
 
-
 ### clase
 
 - Misaa
 
 **10k:** LDR (fotoresistor)
 
-Condensador: (agregar foto)
+Condensador: componente electrónico pasivo que almacena energía. Suaviza el voltaje.
 
 **Circuito astable:** sin estabilidad
 
@@ -31,9 +30,7 @@ Cambiar el potenciador para que sea más agudo.
 
 **Victorian oscillator:** equilibrio precario
 
-La resistencia RA debe ser mayor a 1K, si no segunda el 555*** (colocar foto)
-
-- *Macumbista:** scound box
+- **Macumbista:** scound box
 
  - John Cage
 
@@ -41,8 +38,9 @@ Hace las cosas y disfruta
 
 Entre más resistencia, menos cantidad de energía
 
-Condensador es como un torniquete
+Condensador es como un torniquete (suavizador)
 
+![555](imagenes/555.jpeg)
 
 ### imagenes de proceso
 
@@ -83,12 +81,12 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 No funciono, santi nos mando su resultado y compare que me faltaba que el tenia (a él si le resulto)
 
-![santi](imagenes/resultado_santi.jpeg)
+![santi](imagenes/resultado-santi.jpeg)
 
 1. Santi utilizo cables caimán para cconectar el parlante y yo no.
 2. A los interruptores les coloco
 
-![prueba 3](imagenes/prueba_3.png)
+![prueba 3](imagenes/prueba-3.png)
 
 1. este logro sonar pero un "pum" y ya
 
@@ -133,8 +131,8 @@ El nombre nos ayuda a hacer referencia a partes en el esquemático
  
 Intentar reconocer a qué corresponde y seguir el flujo de entrada a salida.
 
-![elementos esquematico](imagenes/elementos_esquematico.jpeg)
-![cc](imagenes/representar_cc.jpeg)
+![elementos esquematico](imagenes/elementos-esquematico.jpeg)
+![cc](imagenes/representar-cc.jpeg)
 
 - Rastrea conexiones
  → Cada línea es un cable. Muestran cómo se realizan las conexiones y rutas por donde fluye corriente.
@@ -155,8 +153,22 @@ Nodo es una unión donde la corriente puede dividirse o fusionarse. Los cables p
 
  → La ausencia de nodo significa que 2 cables separados solo están pasando
 
-
 https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
 https://anitocircuits.com/how-to-read-a-schematic-circuit-diagram/
+ 
+ -------
+
+Opinión y análisis de " Variaciones Espectrales"
+
+“Ame mucho la música, fue mi gran amor, pero quizás no la ame demasiado” 
+
+No había visto este documental cuando correspondía y fue una buena decisión que me dio la vida. He logrado hacer sonidos que jamás pensé en realizar y he ido a presentaciones de sonidos que nunca pensé en estar sentada escuchando como nadadores hacían sonido. Aquí es cuando me di cuenta que hay sonidos en donde uno menos lo espera, osea ¿cuando creería yo que en una piscina se podrían hacer tan obra o pensar también que pájaros junto al oscilamiento de árboles podrían crear una partitura sin fin? Amo mucho la música, pero quizás no la he amado demasiado para darme cuenta de esos detalles. 
+
+Es increíble saber que Chile tiene una historia en la electroacústica de más de 30 años y todos los interesados en el tema deben saberlos —porque no todo el mundo debe saberlo, si no los que realmente quieren saberlo—  y me da mucha pena por otro lado que siempre pase lo mismo que un sujeto no esté de acuerdo y todos no estarán de acuerdo no teniendo su propia opinión y por eso nadie “pesca” los avances o lo nuevo que está llegando. Yo lo entiendo perfectamente, estaba en un colegio científico-humanista y nadie prestaba atención a los proyectos que estaban fuera de ese rango… Por favor, tener un poco más de sensibilidad a la hora de observar y  analizar para no perder a esos grandes artistas porque uno se desmotiva, como le pasó a Asuar. 
+
+Adentrándome ya a lo concreto que me llamó la atención del documental es la constante comparación con la música docta, como una hace tal cosa y esta hace esto pero con más rango de expresividad, a pesar de ser repetitivo, me parece justo para que así las personas vean que no son “sonidos molestos” sino una forma de expresarse mucho más amplia y hay que seguir insistiendo. Algunos se expresan pintando, nosotros con sonidos extremos que no aún no son costumbre de la sociedad. 
+
+Otro punto que me llamó la atención es la idea de siempre tener un lenguaje para comunicarse o plasmarlo de forma gráfica, no dejar esto en el aire. Esto viene sucediendo desde los egipcios con los pictogramas en las murallas ya que ellos querían poder dejar plasmado y comunicar que estaba sucediendo, bueno, acá sucede lo mismo, querer dejar esto que es ambiguo —al igual que el habla— plasmado y que otros lo puedan replicar. Por esta misma razón es que se crearon las partituras. Todo esto me recuerda a lo que hizo Felipe Zansana, profesor y tipógrafo de nuestra escuela creando la tipografía “ Variación 1” la cual hacía que todas las personas que “mixeaban” se pudieran comunicar.
+
 
 

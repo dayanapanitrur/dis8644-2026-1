@@ -32,7 +32,7 @@ David Tudor, pianista, que tomo el rumbo de la musica electronica
 
 *Integrantes:Isidora Alvarez-Dayana Pañitrur-Camila Ramirez
 
-![encargo-grupal](./encargo-grupal-proceso01-26-03.jpeg)
+![encargo-grupal](./imagenes/encargo-grupal-procesp01-26-03.jpeg)
 
 *apuntes*
 

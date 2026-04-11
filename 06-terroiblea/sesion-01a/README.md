@@ -1,8 +1,8 @@
-# sesion-01a
+ # sesion-01a
 
 Martes 10 de Marzo, 2026.
 
-Nota del día: Primer día de clases del taller de máquinas electrónicas; espero que sea un buen semestre! 
+Nota del día: Primer día de clases del taller de máquinas electrónicas; espero que sea un buen semestre!
 
 ## Sobre la clase
 
@@ -10,14 +10,14 @@ Taller de máquinas electrónicas (DIS8644).
 
 IG: [@teee.udp](https://www.instagram.com/teee.udp/) [@lid.udp](https://www.instagram.com/lid.udp/)
 
-A diferencia del año pasado (cuando el curso se impartió por primera vez y se centró en los inicios de la electrónica, los años 70), este semestre continuará ese recorrido desplazando el foco hacia la década de los 80. El curso estará orientado principalmente a máquinas electrónicas aplicadas a sonido ("hacer cosas que suenan") y sintetizadores. 
+A diferencia del año pasado (cuando el curso se impartió por primera vez y se centró en los inicios de la electrónica, los años 70), este semestre continuará ese recorrido desplazando el foco hacia la década de los 80. El curso estará orientado principalmente a máquinas electrónicas aplicadas a sonido ("hacer cosas que suenan") y sintetizadores.
 
-sonido ≠ musica (la musica es como un parte del sonido pero la especificacion del curso no es hacer musica es hacer sonidos/eventos sonoros!!) 
+sonido ≠ musica (la musica es como un parte del sonido pero la especificacion del curso no es hacer musica es hacer sonidos/eventos sonoros!!)
 
 ### profesores
 
-- Aarón Montoya Moraga (Pronombres neutros - elle). [Github](https://github.com/montoyamoraga) / [PáginaWeb](https://montoyamoraga.io/) / IG: [@montoyamoraga](https://www.instagram.com/montoyamoraga/) / correo: aaron.montoya@mail.udp.cl
-- Matías Serrano (Alias "Misa"). [PáginaWeb](https://misaa.cc/about.html) / IG: [@misaa.cc](https://www.instagram.com/misaa.cc/) / correo: matias.serrano@mail.udp.cl
+- Aarón Montoya Moraga (Pronombres neutros - elle). [Github](https://github.com/montoyamoraga) / [PáginaWeb](https://montoyamoraga.io/) / IG: [@montoyamoraga](https://www.instagram.com/montoyamoraga/) / correo: <aaron.montoya@mail.udp.cl>
+- Matías Serrano (Alias "Misa"). [Github](https://github.com/misaaaaaa) / [PáginaWeb](https://misaa.cc/about.html) / IG: [@misaa.cc](https://www.instagram.com/misaa.cc/) / correo: <matias.serrano@mail.udp.cl>
 
 ### Ayudante
 
@@ -25,9 +25,9 @@ sonido ≠ musica (la musica es como un parte del sonido pero la especificacion 
 
 ### Horario
 
-Martes y Viernes 08:30 a 12:50 (sala 202 SS). 
+Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 
-- 08:30 a 09:00 - tiempo de llegada. 
+- 08:30 a 09:00 - tiempo de llegada.
 - 09:00 a 10:30 - trabajo en clase/materia.
 - 10:30 a 11:00 - descanso/receso.
 - 11:00 a 12:30 - trabajo en clase/materia.
@@ -54,7 +54,7 @@ Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 
 ## Qué aprendí hoy
 
-### Conceptos, componentes y otros aspectos 
+### Conceptos, componentes y otros aspectos
 
 - **PCB** (_printed circuit boird_ o placa de Circuito Impreso, “la placa”). Según Gemini es la base física, hecha de material aislante con pistas de cobre, que soporta y conecta componentes electrónicos en casi todos los dispositivos modernos. Permite la automatización de la producción, mejora la fiabilidad y reduce el tamaño del circuito respecto a los montajes manuales.
 - **PCBA** (_printed Circuit Board Assembly_) es la placa de circuito impreso (PCB) ya ensamblada con todos los componentes electrónicos soldados, como resistencias, condensadores y circuitos integrados, lista para funcionar. A diferencia de la PCB vacía, el PCBA es el producto final funcional utilizado en dispositivos electrónicos.
@@ -62,21 +62,21 @@ Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 ![conceptos](./imagenes/conceptos.png)
 
 - **ETCH PCB** ("grabar al agua fuerte" placas de circuito impreso; Grabado DIY - se hace con acido), según Gemini el grabado de PCB es el proceso químico de eliminar el cobre no deseado de una placa laminada, dejando solo las trazas conductoras del circuito. Se logra cubriendo las pistas deseadas (con tóner, marcador permanente o fotorresistencia) y sumergiendo la placa en agentes químicos como cloruro férrico, peróxido de hidrógeno o ácido muriático para disolver el cobre expuesto. El proceso comienza con el diseño del circuito en un software como KiCad o Autodesk EAGLE, cuyo diseño se imprime en papel transfer y se transfiere a una placa de cobre virgen usando calor (plancha o laminadora). Antes de la transferencia, la placa debe lijarse con lana de acero fina y limpiarse con alcohol isopropílico para eliminar grasa y óxido. Luego se realiza el grabado químico, sumergiendo la placa en una solución que elimina el cobre sobrante mientras se agita suavemente el recipiente para distribuir el químico de forma uniforme. Finalmente, la placa se enjuaga con agua y se elimina el tóner protector con Acetona o alcohol, dejando visible el circuito de cobre.
-- **THT**, traducido como la tecnología de agujeros pasantes (THT - _Through-Hole Technology_) es un método de montaje electrónico donde los componentes tienen terminales que atraviesan perforaciones en la PCB y se sueldan en el lado opuesto. Ofrece alta resistencia mecánica y confiabilidad para componentes grandes y pesados, siendo ideal para aplicaciones de alta potencia, alta tensión o entornos exigentes con vibraciones. Tiene alta resistencia mecánica, componentes fáciles de reemplazar, ideal para prototipos y soporte de mayor potencia. 
+- **THT**, traducido como la tecnología de agujeros pasantes (THT - _Through-Hole Technology_) es un método de montaje electrónico donde los componentes tienen terminales que atraviesan perforaciones en la PCB y se sueldan en el lado opuesto. Ofrece alta resistencia mecánica y confiabilidad para componentes grandes y pesados, siendo ideal para aplicaciones de alta potencia, alta tensión o entornos exigentes con vibraciones. Tiene alta resistencia mecánica, componentes fáciles de reemplazar, ideal para prototipos y soporte de mayor potencia.
 - **SMT**, traducido como la tecnología de montaje superficial (SMT - _Surface Mount Technology_) es el método predominante para ensamblar dispositivos electrónicos, montando los componentes directamente sobre la superficie de una placa PCB. El proceso permite componentes más pequeños y mayor integración en ambas caras de la placa, asegura mayor velocidad de producción y menor tasa de defectos. La SMT ha reemplazado mayoritariamente a la tecnología de orificios pasantes (through-hole) para la mayoría de los componentes, siendo fundamental en la fabricación de productos compactos. (“maquinas que hacen maquinas”)
 
 ![tipos](./imagenes/tipos.png)
 
-- **“BOM”** _bill of materials_ - lista de materiales (visto en el semestre pasado, detalla componentes, costos, cuantos se necesitan, entre otros aspectos). 
+- **“BOM”** _bill of materials_ - lista de materiales (visto en el semestre pasado, detalla componentes, costos, cuantos se necesitan, entre otros aspectos).
 - **Sintetizadores**, (aparatos electrónicos que sintetizan sonidos) Según gemini los sintetizadores son instrumentos musicales electrónicos que generan, manipulan y transforman señales eléctricas en sonido, permitiendo crear timbres desde cero o imitar sonidos tradicionales. Funcionan mediante osciladores, filtros y envolventes (ADSR), siendo fundamentales en la producción musical moderna, ya sea en formato analógico (Moog, Behringer) o digital/VST (Korg, Serum).
   - Para conseguir sintetizadores existen marcas como **Korg** que son uno de los fabricantes más influyentes en el mundo de la síntesis, ofreciendo desde estaciones de trabajo (workstations) de gama alta hasta sintetizadores analógicos compactos y económicos. ("son caros pero profesionales").
-  - Pero tambien existen muchas comunidades **DIY** (hazlo tu mismo) que comparten conocimiento abierto para que cualquier persona pueda construir sus propios sintetizadores e instrumentos electrónicos, algunos ejemplos son: **Musicfromouterspace.com** creado por Ray Wilson, donde se publican diseños completos de sintetizadores modulares, módulos individuales y efectos. El sitio ofrece esquemas electrónicos, diagramas, listas de componentes y explicaciones técnicas, permitiendo replicar los circuitos en casa y entender la arquitectura de cada instrumento (<https://musicfromouterspace.com/>), otra pagina es **Oskitone** proyecto que desarrolla instrumentos electrónicos experimentales y kits de sintetizadores pensados para ser ensamblados por los usuarios. Además de vender placas PCB y kits completos, el proyecto comparte parte de su documentación y procesos de diseño en su repositorio de GitHub, fomentando una cultura abierta de construcción y aprendizaje en torno a la electrónica musical (<https://www.oskitone.com/>), en el blog de **Blog.tommy.sh** donde el ingeniero _Tommy Shaffer_ documenta procesos completos de diseño y fabricación de hardware, incluyendo sintetizadores, circuitos y herramientas electrónicas. Sus publicaciones suelen mostrar paso a paso el desarrollo de los proyectos, desde la idea inicial y los esquemas hasta el prototipo final (<https://blog.tommy.sh/>), y además se encuentran libros disponibles como **Make: Analog Synthesizers**, escrito por _Ray Wilson_, es un libro introductorio al diseño y construcción de sintetizadores analógicos DIY. Explica de forma práctica cómo funcionan los principales módulos de un sintetizador y guía al lector en la construcción de circuitos reales mediante esquemas, diagramas y proyectos paso a paso. 
-    
-### Proyectos vistos en clase 
+  - Pero tambien existen muchas comunidades **DIY** (hazlo tu mismo) que comparten conocimiento abierto para que cualquier persona pueda construir sus propios sintetizadores e instrumentos electrónicos, algunos ejemplos son: **Musicfromouterspace.com** creado por Ray Wilson, donde se publican diseños completos de sintetizadores modulares, módulos individuales y efectos. El sitio ofrece esquemas electrónicos, diagramas, listas de componentes y explicaciones técnicas, permitiendo replicar los circuitos en casa y entender la arquitectura de cada instrumento (<https://musicfromouterspace.com/>), otra pagina es **Oskitone** proyecto que desarrolla instrumentos electrónicos experimentales y kits de sintetizadores pensados para ser ensamblados por los usuarios. Además de vender placas PCB y kits completos, el proyecto comparte parte de su documentación y procesos de diseño en su repositorio de GitHub, fomentando una cultura abierta de construcción y aprendizaje en torno a la electrónica musical (<https://www.oskitone.com/>), en el blog de **Blog.tommy.sh** donde el ingeniero _Tommy Shaffer_ documenta procesos completos de diseño y fabricación de hardware, incluyendo sintetizadores, circuitos y herramientas electrónicas. Sus publicaciones suelen mostrar paso a paso el desarrollo de los proyectos, desde la idea inicial y los esquemas hasta el prototipo final (<https://blog.tommy.sh/>), y además se encuentran libros disponibles como **Make: Analog Synthesizers**, escrito por _Ray Wilson_, es un libro introductorio al diseño y construcción de sintetizadores analógicos DIY. Explica de forma práctica cómo funcionan los principales módulos de un sintetizador y guía al lector en la construcción de circuitos reales mediante esquemas, diagramas y proyectos paso a paso.
+
+### Proyectos vistos en clase
 
 #### Proyecto 01: OZZY Oscilador Múltiple
 
-de Caja Laboratorio móvil (zorro), material pedagógico dirigido a niños. (<https://youtu.be/ehjKHMygGRI>) 
+de Caja Laboratorio móvil (zorro), material pedagógico dirigido a niños. (<https://youtu.be/ehjKHMygGRI>)
 
 - Un oscilador es un sistema capaz de crear perturbaciones o cambios periódicos o cuasiperiódicos en un medio
 - La máquina obtiene energía mediante un conector USB-C y, además, cuenta con un puerto auxiliar para conectar audífonos u otros dispositivos similares. El aparato también dispone de luces, potenciómetros y otros componentes. Tiene distintos modos de uso, entre los cuales se destacan:
@@ -86,7 +86,7 @@ de Caja Laboratorio móvil (zorro), material pedagógico dirigido a niños. (<ht
   - **Modo tacto:** Este modo responde al tocar las “orejas del zorro”. Al hacerlo, se generan frecuencias aleatorias que cambian según el comportamiento de los distintos componentes de la máquina.
 - Me gustó mucho cómo esta máquina lleva la electrónica a un diseño más accesible y atractivo para los niños. La placa y los componentes están dispuestos de manera lúdica (como que los ojos del zorro sean representados con los potenciómetros), Incluso para personas adultas, el diseño resulta interesante (soy fan), haciendo que el aprendizaje y la experimentación con sonidos se convierta en una experiencia divertida y estimulante. La combinación de luces, potenciómetros y modos de uso variados logra que la máquina no solo sea educativa, sino también entretenida y estética (yo la usuaría con mucho gustoo).
 
-#### Proyecto 02: (no sé el nombre, perdón ☹︎) 
+#### Proyecto 02: (no sé el nombre, perdón ☹︎)
 
 - La placa tiene unos grabados increíbles; me gustaría saber cómo los hicieron y cuáles fueron las decisiones creativas de poner esos elementos en particular.
 - A diferencia de otros proyectos que vimos en el mismo día, también me llamó mucho la atención la cantidad de componentes que tiene; en las fotos no se logra apreciar tanto, pero la parte de abajo está llena de componentes.
@@ -105,7 +105,7 @@ de misaa (<https://misaa.cc/electronica/1bytedreamer.html>)
 
 de misaa (<https://misaa.cc/projects/llluviametropolitana.html> / <https://github.com/misaaaaaa/llluvia-pcb>)
 
-- La pcb fue diseñada para la exposición "Llluvia Metropolitana", exhibida en enero de 2026 en la Galería Metropolitana junto a Rainer Krause. 
+- La pcb fue diseñada para la exposición "Llluvia Metropolitana", exhibida en enero de 2026 en la Galería Metropolitana junto a Rainer Krause.
 - Cuenta con una placa que se puede manipular para escuchar la intensidad de la "lluvia", que realmente no es una grabación del sonido de la lluvia; es más bien un componente que está "sufriendo" porque está mal puesto y eso genera el sonido que es igual/muy parecido a como suena la lluvia.
 - "El circuito utiliza un transistor NPN de manera que genera un ruido rosa. Con la base conectada a negativo, el emisor a positivo y el colector desconectado, se genera una conducción inversa a través de la unión base-emisor. Esta configuración crea fluctuaciones aleatorias de corriente que producen variaciones similares al ruido rosa, lo que asemeja el sonido de una lluvia torrencial. Esta señal es llevada a un comparador simple, al que por medio de un potenciómetro se puede controlar cuantas "gotas" se dejan pasar".
 - Fue la máquina que más me gustó de todas las que mostraron en la clase; creo que es increíble que se pueda replicar un sonido a partir de un circuito electrónico sin depender de grabaciones y tiene un plus al ser dinámico y manipulable (intensidad de la "lluvia" con el potenciómetro).
@@ -114,11 +114,11 @@ de misaa (<https://misaa.cc/projects/llluviametropolitana.html> / <https://githu
 
 ![proyectos1](./imagenes/proyectos1.png)
 
-## Encargo 
+## Encargo-01a
 
-Ver la película Sisters with Transistors, y enfocarse en una de las artistas, investigar sobre su vida y obra, hacer un reporte escrito en texto, con fuentes y referencias. 
+Ver la película Sisters with Transistors, y enfocarse en una de las artistas, investigar sobre su vida y obra, hacer un reporte escrito en texto, con fuentes y referencias.
 
-### Sisters with Transistors 
+### Sisters with Transistors
 
 ![documental](./imagenes/documental.jpg)
 
@@ -132,17 +132,17 @@ A pesar de todo esto, el documental también deja claro que muchas de estas muje
 
 - Ver el documental _Sisters with Transistors_ me hizo pensar bastante en cómo muchas áreas relacionadas con la tecnología, la eletrónica o las máquinas suelen asociarse automáticamente con hombres (incluso cuando una quiere ser parte de estas áreas o aprender sobre ellas, muchas veces ya llega con ese estigma o prejuicio presente). Históricamente, a ellos se les ha dado la mayor parte del reconocimiento, cuando en realidad muchas mujeres también han estado involucradas en el desarrollo y la experimentación de estas innovaciones. Esto me recordó algo que me pasó el semestre pasado cuando descubrí que la primera persona en programar fue una mujer (grande Ada Lovelace). Me sorprendió mucho darme cuenta de que, desde el inicio de la computación, ya había mujeres haciendo aportes fundamentales, aunque muchas veces no se les dé tanta visibilidad. Por eso me parece muy valioso cuando se rescatan estas historias y se muestran referentes femeninos en estas áreas. (Además, no puedo evitar decir que me alegra mucho que en este semestre seamos tantas mujeres en el curso!! (amoo), en un espacio que tradicionalmente se ha considerado masculino, es muy bacán ver cómo cada vez más mujeres están participando, interesándose y creando en este campo).
 
-(Ahora sí, después de esa extensa introducción pasamos al desarrollo del encargo). 
+(Ahora sí, después de esa extensa introducción pasamos al desarrollo del encargo).
 
 ### Maryanne Amacher
 
-- compositora, artista e investigadora estadounidense que trabaja su música desde un punto de vista científico. Estudiosa del sonido, caracteriza sus obras con el uso de recursos psicoacústicos, ahonda en el concepto de otoacústica. Creadora de “música de larga distancia”, está considerada pionera del streaming. 
+- compositora, artista e investigadora estadounidense que trabaja su música desde un punto de vista científico. Estudiosa del sonido, caracteriza sus obras con el uso de recursos psicoacústicos, ahonda en el concepto de otoacústica. Creadora de “música de larga distancia”, está considerada pionera del streaming.
 
 ![maryanne](./imagenes/maryanne.png)
 
 #### Sobre su vida
 
-Maryanne Amacher (1938–2009) fue una compositora y artista sonora estadounidense reconocida por su trabajo experimental con el **sonido**, la **percepción auditiva** y la **arquitectura acústica**. Nació el 25 de febrero de 1938 en Kane, Pensilvania, y desde temprana edad tuvo contacto con la música, especialmente a través del piano. Posteriormente estudió en la Universidad de Pensilvania, donde obtuvo un Bachelor of Fine Arts en 1964 y estudió composición con George Rochberg y Karlheinz Stockhausen. También realizó estudios en Salzburgo y Dartington, y más tarde cursó estudios de acústica e informática en la Universidad de Illinois en Urbana-Champaign (Wikipedia, s.f.). 
+Maryanne Amacher (1938–2009) fue una compositora y artista sonora estadounidense reconocida por su trabajo experimental con el **sonido**, la **percepción auditiva** y la **arquitectura acústica**. Nació el 25 de febrero de 1938 en Kane, Pensilvania, y desde temprana edad tuvo contacto con la música, especialmente a través del piano. Posteriormente estudió en la Universidad de Pensilvania, donde obtuvo un Bachelor of Fine Arts en 1964 y estudió composición con George Rochberg y Karlheinz Stockhausen. También realizó estudios en Salzburgo y Dartington, y más tarde cursó estudios de acústica e informática en la Universidad de Illinois en Urbana-Champaign (Wikipedia, s.f.).
 
 Durante su carrera, Amacher se relacionó con importantes figuras de la música experimental del siglo XX. Fue estudiante de **Karlheinz Stockhausen** y colaboró con artistas como **John Cage** y el coreógrafo **Merce Cunningham**. Según el documental Sisters with Transistors, su trabajo _“anticipa algunos de los desarrollos más importantes en el arte de medios, el arte sonoro y las instalaciones”_, además de ser conocida por su interés en la ciencia y por el uso de altos niveles de volumen en sus obras. La artista desarrolló gran parte de su trabajo en diálogo con instituciones académicas como el Instituto Tecnológico de Massachusetts (MIT) y la Universidad de Harvard, donde realizó investigaciones relacionadas con el sonido y la percepción auditiva.
 
@@ -160,7 +160,7 @@ Otra característica central de su método era la **relación entre sonido y arq
 
 En este sentido, su trabajo no podía reducirse a una composición musical tradicional. Más bien, se trataba de una investigación sobre las posibilidades perceptivas del sonido y sobre nuevas formas de escucha.
 
-#### Sobre sus obras 
+#### Sobre sus obras
 
 Una de las obras más importantes de Maryanne Amacher es la serie **City Links**, iniciada en 1967. Etse proyecto consistía en conectar diferentes lugares de una ciudad mediante micrófonos que transmitían sonidos en tiempo real a un espacio de exhibición. Allí, Amacher mezclaba los sonidos y creaba una instalación sonora que permitía escuchar simultáneamente distintos ambientes urbanos. En sus propias palabras, la serie utilizaba telecomunicaciones para transmitir en vivo sonidos de diversos entornos, que luego se integraban en el espacio de la instalación como un nuevo entorno sonoro compartido .
 

@@ -48,8 +48,8 @@ Las resistencias tienen un codigo de color ya que a traves de este metodo podemo
 2.  La tercera barrita son la cantidad de 0 que tiene
 3.  El color dorado es el margen de error o tolerancia.
 
-![tabla](imagenes/tabla_de_resistencia.jpg)
-![tabla](imagenes/resistencia_colores.jpeg)
+![tabla](imagenes/tabla-de-resistencia.jpg)
+![tabla](imagenes/resistencia-colores.jpeg)
 
 Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
@@ -57,7 +57,7 @@ Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calcu
 
 **Esquemático:** Representan de manera gráfica y abstracta el circuito
 
-![esquematico](imagenes/ejemplo_esquematico.jpeg)
+![esquematico](imagenes/ejemplo-esquematico.jpeg)
 
 **Circuito paralelo:** son independientes
 
@@ -75,7 +75,7 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 ![cajas](imagenes/cajas.jpeg)
 ![materiales](imagenes/materiales.jpeg)
 ![ejercicio](imagenes/ejercicio.jpeg)
-![dibujo](imagenes/circuito_dibujo.jpeg).
+![dibujo](imagenes/circuito-dibujo.jpeg).
 
 ### post-clase
 
@@ -139,7 +139,7 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R4            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
-![ejercicio 1](imagenes/ejercicio1_c.jpeg) 
+![ejercicio 1](imagenes/ejercicio1-c.jpeg) 
 
 Ejercicio 2
 
@@ -172,8 +172,8 @@ Para este segundo ejercicio le pedí ayuda a mi padre el como resolver la línea
 | R7            |    I26,I28   |  
 | R8            |    G29,E29   | 
 
-![ejercicio 2](imagenes/ejercicio2_c.jpeg)
-![ejercicio evidencia](imagenes/ejercicio2_evidencia.jpeg)
+![ejercicio 2](imagenes/ejercicio2-c.jpeg)
+![ejercicio evidencia](imagenes/ejercicio2-evidencia.jpeg)
 
 Todos mis resultados eran comparados con mi amiga Paula y ambas teniamos resultados distintos en ciertas resitencias. 
 

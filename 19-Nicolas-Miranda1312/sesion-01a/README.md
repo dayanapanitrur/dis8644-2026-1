@@ -1,8 +1,9 @@
 # sesion-01a
 
-## Primer día de clases 
+## Primer día de clases
 
 ## Horario
+
 Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 
 - 08:30 a 09:00 - tiempo de llegada.
@@ -14,7 +15,7 @@ Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 ---
 
 ## Apuntes
- 
+
 - Printed Circuit Board (PCB) Es una placa rígida donde se montan componentes electrónicos conectados mediante pistas de cobre, lo que permite la automatización de la producción, mejora la fiabilidad del sistema y reduce el tamaño del circuito en comparación con los montajes manuales.
 
 - PCBA (Printed Circuit Board Assembly) Es una placa de circuito impreso ya ensamblada, con todos sus componentes electrónicos soldados sobre la PCB, lista para funcionar, lo que permite mayor fiabilidad, producción automatizada y mejor desempeño del circuito.
@@ -29,10 +30,11 @@ Martes y Viernes 08:30 a 12:50 (sala 202 SS).
 
 ---
 
-##Encargo
+## encargo-01a: Sisters with Transistors
+
 Ver la película Sisters with Transistors, y enfocarse en una de las artistas, investigar sobre su vida y obra, hacer un reporte escrito en texto, con fuentes y referencias.
 
-###  Daphne Oram 
+### Daphne Oram
 
 ![Daphne Oram](./imagenes/daphne_oram.jpg)
 
@@ -59,5 +61,5 @@ Aunque su trabajo no fue ampliamente reconocido en su tiempo, hoy Daphne Oram es
 ### Fuentes y referencias
 
 - <https://www.bbc.com/mundo/vert-cul-40225071>
-- <https://es.wikipedia.org/wiki/Daphne_Oram> 
+- <https://es.wikipedia.org/wiki/Daphne_Oram>
 - <https://sulponticello.com/iii-epoca/oramics-dibujar-la-musica/>

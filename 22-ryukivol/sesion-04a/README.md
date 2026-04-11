@@ -1,1 +1,38 @@
-# sesion-04a
+# sesion-04a  310326 ⋆⭒˚.⋆꩜ .ᐟᯓ★
+
+### Contenidos clase 
+- repaso 555
+- diferentes unidades
+- pagina falstad https://www.falstad.com/circuit/
+- patas o pins 555
+- nuevo circuito mstable -> astable
+
+### Unidades 
+- 0,00,000,000,001 Pico 
+- 0,000,000,001 Nano (unidad común de condensadores) unidad Faradios
+- 0,000,001 Micro (unidad común de condensadores)
+- 0,001 Mili 
+- 1 Unidad 
+- 1.000 Kilo (unidad común de resistencia)
+- 1.000.000 Mega (unidad común de resistencia) unidad Ohm
+- 1.000.000.000 Giga
+- 1.000.000.000.000 Tera
+
+### Falstad
+![Grabación de pantalla 2026-03-31 102457](https://github.com/user-attachments/assets/4cc38ba9-6726-4757-abe2-c6d8892fec5b)
+
+- click derecho para agregar componentes
+- escape para volver
+- electrones ´visibles´, ayuda mas a entender el circuito y como pasa la energia en el
+- verde es el voltaje
+- amarillo la corriente del circuito
+- info extra (mas matematico y asix)
+- 
+
+### Pins 555 
+- pins y nombres del 555
+  + ![555-timer-tutorial-fig2](https://github.com/user-attachments/assets/dedd17ea-928b-48f9-95f1-bd98389b11ee)
+- funcionamiento interno del 555
+  + ![Grabación de pantalla 2026-03-31 103133](https://github.com/user-attachments/assets/81110852-d578-4de0-9ea8-6f76d123ca87)
+
+

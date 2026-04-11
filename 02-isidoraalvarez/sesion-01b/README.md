@@ -1,5 +1,11 @@
 # sesion-01b
 
+![foto de apuntes](./imagenes/apuntes-13demarzo-1.jpg)
+
+![foto de apuntes](./imagenes/apuntes-13demarzo-2.jpg)
+
+## encargo-01b
+
 ## **The Internet's Own Boy: The Story of Aaron Swartz**
 
 El documental *The Internet 's Own Boy: The Story of Aaron Swartz* nos habla de su vida, su trabajo y el activismo del programador Aaron Swartz. El cual mediante entrevistas, archivos personales y testimonios de familiares, y de su entorno, este nos muestra cómo se convirtió en una persona clave en la defensa de la libertad en Internet y el acceso libre al conocimiento. También se puede ver el análisis del conflicto legal que enfrentó con el gobierno de Estados Unidos y las consecuencias que este tuvo en su vida.
@@ -14,14 +20,14 @@ En el documental también se muestra la participación de Swartz en movimientos 
 
 La historia de Aaron Swartz nos muestra el conflicto entre el control del conocimiento y la idea de un Internet libre y accesible para todos. Su activismo contribuyó a generar debates importantes sobre el acceso abierto, los derechos digitales y el uso de la información en la era digital. Aunque lamentablemente falleció en el 2013, su legado continúa influyendo en movimientos que buscan democratizar el acceso al conocimiento y proteger la libertad en Internet.
 
-# **Dato**
+### Dato
 
 En la filosofía de Internet libre y del conocimiento abierto es Arduino, una plataforma de hardware y software de código abierto que permite a estudiantes, programadores y creadores desarrollar proyectos tecnológicos compartiendo diseños y programas libremente. Este tipo de iniciativas reflejan ideas similares a las que defendía Aaron Swartz, quien creía que el conocimiento y la tecnología deberían ser accesibles para todas las personas.
 
-# **REFERENTES BIBLIOGRÁFICOS**
+### Referentes bibliográficos
 
 Knappenberger, B.(2014). The Internet's Own Boy: The Story of Aaron Swartz. Participant Media.
 
 Swartz, A. (2008). Guerrilla Open Access Manifesto.
 
-Creative Commons.(s.f.). Historia y misión de Creative Commons. 
+Creative Commons.(s.f.). Historia y misión de Creative Commons.

@@ -1,6 +1,6 @@
 # sesion-01b ⋆༺𓆩☠︎︎𓆪༻⋆
 
-## The Internet's Own Boy - Aaron Swartz Full Documentary
+## encargo-01b: The Internet's Own Boy - Aaron Swartz Full Documentary
 
 - Después de ver los videos (me vi u par de videos extra) y el documental sobre Aaron Swartz, la verdad es que me dejó pensando mucho, el cómo un niño común y corriente fan y emocionado por la programación, internet y el funcionamiento del mismo tuvo un final tan trágico a manos de una gran potencia como lo es el gobierno de estados unidos, quien con tanto talento y en el futuro son tanto dinero más que seguir el patrón de típico rico siguió con la lucha de un internet libre, accesible y libre de trabas gubernamentales y económicas.
 
@@ -10,5 +10,7 @@
   
 - Finalizando, pude aprender un poco de la gran historia de uno de los grandes activistas por el acceso al internet libre, sin pagos ni barreras siendo un gran precursor del internet como lo conocemos hoy, además me queda la sensación de que perdimos a una de las mentes más brillantes de nuestra época por culpa de leyes que protegen más el negocio que el avance de la humanidad, en lo personal el fin de esta historia fue meramente por el miedo que generó una mente tan brillante en la élite como ocurre muchas veces. Su historia es un recordatorio de que el internet que conocemos hoy, con sus libertades y sus luchas, existe gracias a personas como él que no tuvieron miedo de desafiar al poder
 
-### Clase 13 de marzo 
-subir mis apuntes del cuaderno y fotos!
+### Clase 13 de marzo
+
+![circuito](./imagenes/38c02da2-f2b1-4275-8f40-addf96e6103f-1_all_7999.jpg)
+![componentes](./imagenes/38c02da2-f2b1-4275-8f40-addf96e6103f-1_all_7997.jpg)

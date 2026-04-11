@@ -1,24 +1,22 @@
 # sesion-01b
-#  Introducción a Circuitos y Herramientas Digitales
+
+## Introducción a Circuitos y Herramientas Digitales
 
 Apuntes de clase sobre conceptos básicos de electricidad, uso de herramientas digitales y uso de GitHub.
 
-
-
-##  Uso básico de GitHub
+## Uso básico de GitHub
 
 En clase aprendimos cómo escribir en Github con la gran ayuda de los profesores y estudiantes antiguos.
 
+## Conceptos básicos de electricidad
 
+### Magnitudes eléctricas
 
-#  Conceptos básicos de electricidad
-
-## Magnitudes eléctricas
-- Magnitud: Corriente, Símbolo: I, Unidad: Ampere (A) 
-- Magnitud: Resistencia, Símbolo: R, Unidad: Ohm (Ω) 
+- Magnitud: Corriente, Símbolo: I, Unidad: Ampere (A)
+- Magnitud: Resistencia, Símbolo: R, Unidad: Ohm (Ω)
 - Magnitud: Voltaje, Símbolo: V, Unidad: Volts (V)
 
-##  Ley de Ohm
+## Ley de Ohm
 
 La **Ley de Ohm** explica la relación entre voltaje, corriente y resistencia.
 
@@ -35,8 +33,7 @@ Donde:
 - Si el **voltaje aumenta**, la corriente aumenta.
 - Si la **resistencia aumenta**, la corriente disminuye.
 
-
-## Ejemplo del agua 
+## Ejemplo del agua
 
 Para entender mejor la electricidad, se usa una comparación con el agua.
 
@@ -52,8 +49,7 @@ caudal = altura / oposición
 
 Ejemplo que ayuda a imaginar cómo fluye la electricidad en un circuito.
 
-
-# Movimiento de electrones
+## Movimiento de electrones
 
 - Los **electrones tienen carga negativa (-)**.
 - Se mueven dentro de los materiales conductores.
@@ -62,8 +58,7 @@ Ejemplo que ayuda a imaginar cómo fluye la electricidad en un circuito.
 
  Los electrones no quieren estar juntos y se mueven buscando equilibrio.
 
-
-#  Materiales conductores
+## Materiales conductores
 
 Algunos materiales permiten el movimiento de electrones fácilmente:
 
@@ -73,18 +68,16 @@ Algunos materiales permiten el movimiento de electrones fácilmente:
 
 El **cobre** se usa mucho en cables eléctricos porque es muy buen conductor.
 
+## Componentes de un circuito
 
-# Componentes de un circuito
-
-## Cables
+### Cables
 
 Colores comunes:
 
--  Rojo → positivo / energía
--  Negro → tierra / negativo
+- Rojo → positivo / energía
+- Negro → tierra / negativo
 
-
-## Protoboard
+### Protoboard
 
 La **protoboard** permite construir circuitos sin soldar.
 
@@ -95,8 +88,7 @@ Características:
 - Canal central que separa dos zonas como moises (ejemplo de Matías)
 - Permite probar circuitos fácilmente
 
-
-## Resistencia
+### Resistencia
 
 La **resistencia** controla o limita el flujo de corriente.
 
@@ -106,8 +98,7 @@ Características:
 - Protege componentes
 - **No tiene polaridad**
 
-
-## LED
+### LED
 
 Un **LED (Light Emitting Diode)** es un diodo que emite luz.
 
@@ -121,10 +112,8 @@ Características:
 | Ánodo | + |
 | Cátodo | - |
 
-
 (Fisicamente la patita mas larga es positiva, la corta es negativa)
 Si se conecta al revés **no funciona**.
-
 
 ## Tinkercad
 
@@ -136,37 +125,42 @@ Si se conecta al revés **no funciona**.
 
 Permite probar circuitos sin tener los componentes físicos.
 
-
 ## Mitchel Resnick
+
 Su enfoque se basa en:
 
 - Aprender creando
 - Experimentar
 - Construir proyectos
 
-
-## Aaron Swartz documentary
+## encargo-01b: Aaron Swartz documentary
 
 Programador y activista de internet que defendía el acceso libre al conocimiento.
-![aaron](./imagenes/Aaron.jpg) 
+
+![aaron](./imagenes/aaron.jpg)
+
 El documental explica:
+
 - Su vida
 - Su trabajo en internet
 - Su lucha por el acceso abierto a la información.
 
 ## Introducción
+
 El documental *The Internet’s Own Boy: The Story of Aaron Swartz* (2014) cuenta la historia de Aaron Swartz, un programador y activista que luchó por el acceso libre a la información en internet. Desde muy joven participó en el desarrollo de tecnologías importantes de la web y dedicó gran parte de su vida a defender que el conocimiento debería estar disponible para todas las personas.
 
 ## Desarrollo
+
 Aaron Swartz fue un programador muy influyente en el mundo digital. Participó en la creación del estándar RSS cuando era muy joven y también estuvo involucrado en el desarrollo de plataformas importantes de internet. Con el tiempo se enfocó en el activismo digital, defendiendo el acceso abierto a la información y criticando los sistemas que limitaban el acceso al conocimiento científico.
 
 El conflicto principal que muestra el documental ocurre cuando Swartz descargó una gran cantidad de artículos académicos desde la base de datos JSTOR utilizando la red del MIT. Aunque no se comprobó que hubiera publicado los artículos, el gobierno de Estados Unidos lo acusó bajo leyes de fraude informático, enfrentando posibles penas de prisión muy altas. Esta situación generó una gran presión personal sobre él.
 
 ## Conclusión
+
 El documental muestra el conflicto entre el acceso libre al conocimiento y las leyes que protegen la propiedad intelectual. También invita a reflexionar sobre el papel de internet en la sociedad y quién debería tener acceso a la información. La historia de Aaron Swartz demuestra cómo una sola persona puede influir en el debate sobre los derechos digitales y la libertad de información.
 
 ## Fuentes
 
-- https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz  
-- https://en.wikipedia.org/wiki/Aaron_Swartz   
-- https://www.pbs.org/newshour/arts/internets-boy-tries-find-aaron-swartz
+- <https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz>  
+- <https://en.wikipedia.org/wiki/Aaron_Swartz>
+- <https://www.pbs.org/newshour/arts/internets-boy-tries-find-aaron-swartz>

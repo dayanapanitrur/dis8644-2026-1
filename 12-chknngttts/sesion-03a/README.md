@@ -3,7 +3,7 @@
 - ## apuntes clase hola
   - nuevos'ish materiales!!!
     - botones
-      - ![boton protoboard](./imagenes/boton_switch.png)
+      - ![boton protoboard](./imagenes/boton-switch.png)
         - este boton esta diseñano para que quepa en las protoboard
         - tiene 2 lados
           - uno positivo y uno negativo
@@ -23,13 +23,13 @@
           - (para este tipo de parlante necesitamos los cables caiman para tener una conexión estable)
          
      - ### que es una frequencia??????????????????????????????????
-       - ![frequencia y periodo](./imagenes/frecuencia_periodo.png)
+       - ![frequencia y periodo](./imagenes/frecuencia-periodo.png)
          
     - ## 1er ejercicio
-      - ![circuito base parlante](./imagenes/circuito_poten.png)
+      - ![circuito base parlante](./imagenes/circuito-poten.png)
         - aquí se usa el chip 555
     - ### **en protoboard**
-      - ![circuito base parlante en protoboard](./imagenes/parlante_1.jpg)
+      - ![circuito base parlante en protoboard](./imagenes/parlante-1.jpg)
         - lo que si cambiamos (lo modifiqué con mi compañero hola nico) fueron los condensadores
           - cambiamos el de 100uf por uno de 10uf y 1uf (si no mal recuerdo)
             - mientras menor uf, más rapido/agudo suena
@@ -59,20 +59,20 @@
 
 - ### intento de conectar 2 parlantes
   - no fue docuentado pero intente conectar 2 parlantes al circuito y terminé quemando el 555 de mi compañero :(
-    - ![quema quema 555](./imagenes/555_muerte.gif)
+    - ![quema quema 555](./imagenes/555-muerte.gif)
    
 - ## toy organ
   - como tarea teniamos que hacer un circuito que nos mostraros los profes para hacer un sintetizador en el proto
-    - ![toy organ circuito conceptual](./imagenes/circuito_vario.png)
+    - ![toy organ circuito conceptual](./imagenes/circuito-vario.png)
       - lo hicimos con 1 boton primero para ver si funcionaba
       - nos juntamos de a 3 para intentarlo después de clases y no nos funcionó
-        - ![toy organ circuito proto1](./imagenes/toy_organ_intento1.jpg)
-        - ![toy organ circuito proto2](./imagenes/toy_organ_intento2.jpg)
-        - ![toy organ circuito proto3](./imagenes/toy_organ_intento3.jpg)
-        - ![toy organ circuito proto4](./imagenes/toy_organ_intento4.jpg)
+        - ![toy organ circuito proto1](./imagenes/toy-organ-intento1.jpg)
+        - ![toy organ circuito proto2](./imagenes/toy-organ-intento2.jpg)
+        - ![toy organ circuito proto3](./imagenes/toy-organ-intento3.jpg)
+        - ![toy organ circuito proto4](./imagenes/toy-organ-intento4.jpg)
           - al probar conectando/desconectando distintos cables el 555 se empezó a calentar mucho
             - y murió
-              - ![quema quema 555](./imagenes/555_muerte.gif)
+              - ![quema quema 555](./imagenes/555-muerte.gif)
             - lo intenté denuevo otro dia para ver si lo podria hacer
               - denuevo no me funcionó
                 - ![steamsad](./imagenes/sad.png)
@@ -83,7 +83,7 @@
           - no lo segui al pie de la letra tampoco, más que nada era para hacer algo
           - ![steamsad](./imagenes/sad.png)
           - pero si sonaba interesante!!!
-            - ![intento toy organ1](./imagenes/toy_organ21.jpg) ![intento toy organ2](./imagenes/toy_organ22.jpg) ![intento toy organ3](./imagenes/toy_organ23.jpg)
+            - ![intento toy organ1](./imagenes/toy-organ21.jpg) ![intento toy organ2](./imagenes/toy-organ22.jpg) ![intento toy organ3](./imagenes/toy-organ23.jpg)
            
 (video)
 

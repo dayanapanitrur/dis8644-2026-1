@@ -1,5 +1,7 @@
 # sesion-01a
 
+## encargo-01a
+
 Wendy Carlos nació en 1939 en Rhode Island. Creció en una familia de clase trabajadora donde el acceso a instrumentos y equipos musicales era limitado. Esa escasez se convirtió en el impulso de su creatividad. Como su familia no podía costear un piano, lograron conseguirle clases con un instructor, y su padre le construyó un teclado de papel para que pudiera practicar. La falta de recursos electrónicos también la llevó a desarrollar una vocación temprana, comenzó a fabricar sus propios dispositivos.
 
 Desde muy joven combinó dos mundos que en ese momento rara vez se encontraban, la música y la computación. Aprendió a soldar circuitos y a diseñar equipos electrónicos, incluso construyó a mano su propio panel de sonido hi-fi en madera, que instaló en la habitación de sus padres. Esta mezcla de habilidad técnica y sensibilidad musical se volvió el eje de su carrera.
@@ -18,8 +20,8 @@ Hoy es considerada una figura clave en la historia del sintetizador y de la mús
 
 Referencias
 
-https://www-theguardian-com.translate.goog/music/2020/nov/11/she-made-music-jump-into-3d-wendy-carlos-the-reclusive-synth-genius?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+<https://www-theguardian-com.translate.goog/music/2020/nov/11/she-made-music-jump-into-3d-wendy-carlos-the-reclusive-synth-genius>
 
-https://www-yourclassical-org.translate.goog/story/2020/11/11/wendy-carlos?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
+<https://www-yourclassical-org.translate.goog/story/2020/11/11/wendy-carlos?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true>
 
-https://youtu.be/jPpNZGjUflA?si=iCrr7xRHVYHzKMk4
+<https://youtu.be/jPpNZGjUflA?si=iCrr7xRHVYHzKMk4>

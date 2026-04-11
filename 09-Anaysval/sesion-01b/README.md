@@ -4,30 +4,36 @@ La corriente eléctrica es el flujo de cargas eléctricas (generalmente electron
 
 La resistencia (R) limita el paso de la corriente en un circuito. Se mide en ohmios (Ω) y no tiene polaridad, por lo que se puede colocar en cualquier dirección.
 
-### LED
+## LED
+
 El LED sí tiene polaridad:
+
 - **Pata larga:** positivo (ánodo)
 - **Pata corta o lado plano:** negativo (cátodo)
 
 Si se conecta al revés no prende.
 
-### Ley de Ohm
+## Ley de Ohm
+
 Corriente (I) = Voltaje (V) / Resistencia (R)
 
 ## Puntos clave
+
 - **Corriente (I):** flujo de electrones. Se mide en amperios (A).
 - **Voltaje (V):** fuerza que mueve los electrones. Se mide en voltios (V).
 - **Resistencia (R):** limita la corriente. Se mide en ohmios (Ω).
 - Más resistencia- menos flujo de corriente.
 
 ## Componentes
+
 - **LED:** pata larga ánodo (+), pata corta o lado plano cátodo (−).
 - **Protoboard:** placa para armar circuitos; tiene líneas de energía y un canal central.
 - **Cables Dupont:** cables usados para conectar componentes.
 - **Tinkercad:** simulador web para crear y probar circuitos.
----
-### Encargo
 
+---
+
+## encargo-01b
 
 El documental cuenta la historia de Aaron Swartz, un programador y activista que desde muy joven estuvo involucrado en proyectos importantes de internet, como Reddit y Creative Commons. Lo que más lo caracterizaba era que pensaba que el conocimiento debería ser libre y para todos, sin pagos o restricciones.
 

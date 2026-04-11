@@ -1,4 +1,5 @@
 # Taller de Informática  
+
 ## Diseño de Máquinas Electrónicas
 
 ---
@@ -27,44 +28,52 @@ Para que funcione correctamente, el circuito debe estar cerrado es decir, la cor
 ## Tipos de circuitos eléctricos
 
 ### Circuito cerrado
+
 Es aquel en el que la corriente puede circular completamente.  
 Ejemplo: una ampolleta encendida.
 
 ---
 
 ### Circuito abierto
+
 La corriente no puede circular porque existe una interrupción.  
 Ejemplo: un interruptor apagado.
 
 ---
 
 ### Circuito en serie
+
 Los componentes están conectados uno tras otro.
 
 Características:
+
 - La corriente es la misma en todo el circuito.  
 - Si un componente falla, todo el circuito deja de funcionar.  
 
 ---
 
 ### Circuito en paralelo
+
 Los componentes están conectados en diferentes ramas.
 
 Características:
+
 - Si un componente falla, los demás continúan funcionando.  
 - Es el tipo de circuito utilizado en las instalaciones del hogar.  
 
 ---
 
 ### Circuito mixto
+
 Combina circuitos en serie y en paralelo.  
 Se utiliza en sistemas eléctricos más complejos.
 
 ---
 
-## Materiales Aislantes y Conductores. 
+## Materiales Aislantes y Conductores
 
 ### Conductores
+
 Son materiales que permiten el paso de la corriente eléctrica con facilidad.
 
 - Hierro  
@@ -78,6 +87,7 @@ Ejemplo: cables eléctricos.
 ---
 
 ### Aislantes
+
 Son materiales que impiden el paso de la corriente eléctrica.
 
 - Vidrio  
@@ -96,10 +106,3 @@ Ejemplo: recubrimiento de cables.
 - No mezclar agua con electricidad.  
 - Utilizar materiales aislantes para protección.  
 - Revisar las conexiones antes de encender un circuito.  
-
-
-
-
-
-     
-                   

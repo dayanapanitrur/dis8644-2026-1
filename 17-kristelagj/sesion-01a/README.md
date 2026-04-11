@@ -38,9 +38,9 @@ Referentes mencionados en clase
 
 - Koma es de berlín
 
-- Tommgish
+- tommy.sh
 
-- Gogbotic
+- Dogbotic
 
 ---
 
@@ -49,13 +49,14 @@ Referentes mencionados en clase
 ¿Cómo tener un buen proceso en github?
 
 Anotaciones de lo que se habló e hizo en clases, idealmente con fotos.
+
 Proceso de todo lo que se realiza post clase más foto
 
 Todo esto bien detallado (ser detallados siempre con lo que decimos como dijo Aaron)
 
 *Si no se como explicarlo, realmente no sé qué es y no me interesaba tanto.
 
-Sisters with Transistors
+## encargo-01a: Sisters with Transistors
 
 Investigación antes de ver el documental:
 

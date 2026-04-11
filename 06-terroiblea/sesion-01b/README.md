@@ -1,8 +1,8 @@
 # sesion-01b
 
-Viernes 13 de Marzo, 2026. 
+Viernes 13 de Marzo, 2026.
 
-Nota del día: ame tinkercad. 
+Nota del día: ame tinkercad.
 
 ## Referentes (y otras cosas)
 
@@ -16,19 +16,19 @@ Nota del día: ame tinkercad.
 - **Maryanne Amacher** fue una artista de instalación y compositora estadounidense.​​Es conocida por trabajar ampliamente con una familia de fenómenos psicoacústicos llamados productos de distorsión auditiva, en los que las orejas mismas producen sonido audible.
 - **Éliane Radigue** fue una compositora francesa de música acusmática, cuyo trabajo, desde principios de la década de 1970, se realizó con un solo sintetizador, el sistema modular ARP 2500. (wikipedia)
 - **Suzanne Ciani** _"is a five-time Grammy award-nominated composer, electronic music pioneer, and neo-classical recording artist who has released over 20 solo albums including "Seven Waves," and "The Velocity of Love," along with a landmark quad LP “LIVE Quadraphonic,” which restarted her Buchla modular performances. Her work has been featured in films, games, and countless commercials as well. She was inducted into the first class of Keyboard Magazine's Hall of Fame alongside other synth luminaries, including Bob Moog, Don Buchla and Dave Smith and received the Moog Innovation Award. Most recently, she is the recipient of the Independent Icon Award from A2IM. Suzanne has provided the voice and sounds for Bally's groundbreaking "Xenon" pinball machine, created Coca-Cola’s pop-and-pour sound, designed logos for Fortune 500 companies, establishing herself as one of the most creatively successful female composers. A Life in Waves, a documentary about Ciani’s life and work, debuted at SXSW in 2017"_. - <https://www.youtube.com/user/SuzanneCiani>
-- **Laurie Spiegel** es una compositora estadounidense, ​ conocida principalmente por sus composiciones de música electrónica y su software de composición algorítmica Music Mouse. También toca la guitarra y el laúd.​Algunos vieron a Spiegel como una pionera de la escena de la nueva música de Nueva York. 
+- **Laurie Spiegel** es una compositora estadounidense, ​ conocida principalmente por sus composiciones de música electrónica y su software de composición algorítmica Music Mouse. También toca la guitarra y el laúd.​Algunos vieron a Spiegel como una pionera de la escena de la nueva música de Nueva York.
 - **TINKERCAD** (página) Según Gemini Tinkercad es una plataforma web gratuita y fácil de usar, desarrollada por Autodesk, diseñada para el modelado 3D, simulación de circuitos electrónicos y programación de bloques. Ideal para principiantes y el ámbito educativo, permite crear diseños complejos uniendo formas geométricas básicas, preparándolos para la impresión 3D. - <https://www.tinkercad.com/>
-- **Mitchel Resnick** (salió el semestre pasado igual) es un "profesor titular de investigación sobre el aprendizaje en el MIT Media Lab, desarrolla nuevas tecnologías y actividades para involucrar a las personas (en particular a los niños) en experiencias de aprendizaje creativas. Su grupo de investigación Lifelong Kindergarten desarrolló el software de programación Scratch y la comunidad en línea, utilizados por millones de jóvenes en todo el mundo". - (<https://www.media.mit.edu/people/mres/overview/>) 
-- **Bach**, Johann Sebastian Bach fue un compositor, músico, director de orquesta, maestro de capilla, cantor y profesor alemán del período barroco. Según Gemini Su música se caracteriza por la estructura armónica, el uso de melodías entrelazadas y una producción inmensa, tanto sacra como instrumental. 
+- **Mitchel Resnick** (salió el semestre pasado igual) es un "profesor titular de investigación sobre el aprendizaje en el MIT Media Lab, desarrolla nuevas tecnologías y actividades para involucrar a las personas (en particular a los niños) en experiencias de aprendizaje creativas. Su grupo de investigación Lifelong Kindergarten desarrolló el software de programación Scratch y la comunidad en línea, utilizados por millones de jóvenes en todo el mundo". - (<https://www.media.mit.edu/people/mres/overview/>)
+- **Bach**, Johann Sebastian Bach fue un compositor, músico, director de orquesta, maestro de capilla, cantor y profesor alemán del período barroco. Según Gemini Su música se caracteriza por la estructura armónica, el uso de melodías entrelazadas y una producción inmensa, tanto sacra como instrumental.
 - **Music mouse** (obra) software algorítmico de composición musical desarrollado por Laurie Spiegel.  
 - **Kaitlyn Aurelia smith** es una compositora, intérprete y productora estadounidense, originaria del noroeste del Pacífico y actualmente radicada en Los Ángeles. Su trabajo emplea de manera destacada sintetizadores modulares Buchla. Recibió elogios por sus álbumes Ears y The Kid. (en su ig dice "Composer, synthesist, producer, sound designer, visual artist"). - <https://www.instagram.com/kaitlynaurelia/> / <https://kaitlynaureliasmith.com/>
-- **Sunergy** (disco). 
+- **Sunergy** (disco).
 
 ## Qué aprendí hoy
 
 ### Conceptos
 
-- **Voltaje (V)** también conocido como tensión eléctrica o diferencia de potencial ("que tanto hay mas eletrones en un lado que en el otro"), es la magnitud física que impulsa a los electrones a moverse a través de un conductor en un circuito cerrado. Se mide en voltios (V) y representa la energía potencial por unidad de carga. Es la "presión" que permite el flujo de electricidad. 
+- **Voltaje (V)** también conocido como tensión eléctrica o diferencia de potencial ("que tanto hay mas eletrones en un lado que en el otro"), es la magnitud física que impulsa a los electrones a moverse a través de un conductor en un circuito cerrado. Se mide en voltios (V) y representa la energía potencial por unidad de carga. Es la "presión" que permite el flujo de electricidad.
 - **Resitencia (R)** = CONTROLAR EL FLUJO - es la oposición que presenta un material al paso de la corriente eléctrica, medida en ohmios. Definida por la ley de Ohm como **R = V/I** (voltaje entre intensidad), es una magnitud fundamental utilizada para limitar el flujo de electrones en circuitos, protegiendo componentes.
 - **Intensidad de corriente (I)** es la cantidad de carga eléctrica que atraviesa la sección transversal de un conductor por unidad de tiempo, medida en Amperios (A). Representa el flujo de electrones en un circuito, siendo el equivalente al caudal de agua en una tubería.
   - Según la ley de Ohm **I=V/R**
@@ -46,22 +46,22 @@ Nota del día: ame tinkercad.
 - **Diferencia**
 - **Poder**  
 
-CAUDAL = ALTURA / OPOSICIÓN 
+CAUDAL = ALTURA / OPOSICIÓN
 
 ### Componentes
 
-- **Cable dupont** es un cable con un conector en cada punta, que se usa normalmente para interconectar entre sí los componentes en una placa de pruebas. Se utilizan de forma general para transferir señales eléctricas de cualquier parte de la placa de prototipos. (tienen salida macho/hembra) 
+- **Cable dupont** es un cable con un conector en cada punta, que se usa normalmente para interconectar entre sí los componentes en una placa de pruebas. Se utilizan de forma general para transferir señales eléctricas de cualquier parte de la placa de prototipos. (tienen salida macho/hembra)
 - **Protoboard** o placa de pruebas es una herramienta fundamental en electrónica para ensamblar y probar circuitos rápidamente sin soldar. Hechas de plástico con láminas metálicas internas, permiten interconectar componentes y cables. Tiene filas verticales de 5 orificios que están conectadas entre sí eléctricamente que se usa como zona de conexión y tiene líneas horizontales largas para distribuir energía (positivo/negativo), marcadas usualmente en rojo y azul que se utiliza como buses de alimentación.
-- **Pila**, es una fuente de energía eléctrica obtenida por transformación directa de energía química y constituida por uno o varios elementos primarios. 
+- **Pila**, es una fuente de energía eléctrica obtenida por transformación directa de energía química y constituida por uno o varios elementos primarios.
 - **Resistencias**, son componentes electrónicos pasivos que limitan el flujo de corriente eléctrica y dividen voltajes dentro de un circuito, funcionando como válvulas de seguridad al disipar energía en forma de calor. Se miden en ohmios y su valor se determina generalmente por un código de bandas de colores. Controlan la intensidad de corriente para evitar cortocircuitos y proteger componentes sensibles, como los LEDs. (no tiene polaridad por lo que da lo mismo hacia que lado se ponga)
 - **Led** (Diodo Emisor de Luz) es un componente semiconductor que emite luz al circular corriente por él en una sola dirección. Cuenta con dos terminales: ánodo (positivo) y cátodo (negativo). Si se conecta al revés, no enciende. Algunas formas de diferenciar la parte negativa y la positiva: pata corta negativo - pata larga positivo; triangulo grande es negativo y triangulo pequeño es positivo, entre otros. catado - anado). Opera con corriente continua (CC) y requiere voltajes bajos y específicos según el color, por lo que casi siempre necesita una resistencia limitadora para no dañarse.
-- **Pulsador**, es un dispositivo de conmutación eléctrica que permite abrir o cerrar un circuito solo mientras se mantiene presionado, regresando a su estado original al soltarlo. 
+- **Pulsador**, es un dispositivo de conmutación eléctrica que permite abrir o cerrar un circuito solo mientras se mantiene presionado, regresando a su estado original al soltarlo.
 - **Condensador**, es un componente eléctrico pasivo que almacena energía rápidamente en forma de campo eléctrico entre dos placas conductoras separadas por un material dieléctrico. Se utiliza para filtrar señales, nivelar voltajes en fuentes de alimentación y en el arranque de motores.
-- **Potenciometro**, es una resistencia variable mecánica de tres terminales que ajusta manualmente la intensidad de corriente o voltaje en un circuito, actuando como divisor de tensión. Mediante un cursor deslizante sobre una pista resistiva, altera la resistencia entre 0 y su valor máximo nominal, siendo comunes los tipos rotatorios y deslizantes en aplicaciones como volumen o iluminación. (casi toda la información fue sacada de Gemini). 
+- **Potenciometro**, es una resistencia variable mecánica de tres terminales que ajusta manualmente la intensidad de corriente o voltaje en un circuito, actuando como divisor de tensión. Mediante un cursor deslizante sobre una pista resistiva, altera la resistencia entre 0 y su valor máximo nominal, siendo comunes los tipos rotatorios y deslizantes en aplicaciones como volumen o iluminación. (casi toda la información fue sacada de Gemini).
 
 ![componentes](./imagenes/componentes1.png)
 
-A considerar: 
+A considerar:
 
 - cable rojo = energia (VCC)
 - cable negro = "tierra" (GND, bajo voltaje)
@@ -70,9 +70,9 @@ A considerar:
 
 ### Github (yeih)
 
-GitHub es una plataforma en la nube que funciona como el mayor centro de alojamiento de repositorios Git del mundo, permitiendo a desarrolladores almacenar, gestionar y compartir código, además de colaborar en proyectos de software. Es conocida como la "red social de los programadores", facilitando el trabajo en equipo, control de versiones y el código abierto. 
+GitHub es una plataforma en la nube que funciona como el mayor centro de alojamiento de repositorios Git del mundo, permitiendo a desarrolladores almacenar, gestionar y compartir código, además de colaborar en proyectos de software. Es conocida como la "red social de los programadores", facilitando el trabajo en equipo, control de versiones y el código abierto.
 
-En el curso lo utilizamos como bitácora de registro para cada clase y proyecto a realizar (se evalua cada clase!!). 
+En el curso lo utilizamos como bitácora de registro para cada clase y proyecto a realizar (se evalua cada clase!!).
 
 cómo se usa, algunos tips y consideraciones: (información sacada del repositorio del semestre pasado)
 
@@ -89,7 +89,7 @@ Reglas (nuevo): guardar README solo en mayúsculas, nada de espacios al momento 
 
 ### Tinkercad
 
-simulación de circuitos electrónicos: las primeras imágenes son en relación a lo aprendido en conjunto durante la clase, las demás fotos son experimentación que hice en grupo (4 y 6) y sola (corazón, carita y hola). 
+simulación de circuitos electrónicos: las primeras imágenes son en relación a lo aprendido en conjunto durante la clase, las demás fotos son experimentación que hice en grupo (4 y 6) y sola (corazón, carita y hola).
 
 ![apagado](./imagenes/apagado.png)
 ![encendido](./imagenes/encendido.png)
@@ -101,11 +101,11 @@ simulación de circuitos electrónicos: las primeras imágenes son en relación 
 
 para ver: <https://www.tinkercad.com/things/643XxFrK9hd-smashing-wolt-lahdi/editel>
 
-## Encargo 
+## Encargo-01b
 
 Ver el documental the internet's own boy, sobre la vida de Aaron Swartz, y escribir un reporte con fuentes y referencias sobre lo aprendido.
 
-### The Internet’s Own Boy: The Story of Aaron Swartz (2014) 
+### The Internet’s Own Boy: The Story of Aaron Swartz (2014)
 
 Es un documental dirigido por Brian Knappenberger que narra la vida, pensamiento y muerte del programador y activista de internet Aaron Swartz. La película no solo cuenta su historia personal, sino que también explora temas más amplios como el acceso al conocimiento, el poder de las corporaciones y gobiernos sobre la información, y el impacto que puede tener un individuo en el mundo digital.
 
@@ -123,17 +123,17 @@ Aunque la plataforma JSTOR no presentó cargos, el gobierno de Estados Unidos to
 
 Tras dos años de una presión legal extenuante y la negativa de los fiscales a negociar, Aaron Swartz se suicidó en enero de 2013, a los 26 años. El documental concluye que su muerte fue el resultado de un choque violento entre la cultura abierta de internet y las estructuras de poder tradicionales. Como bien rescata el título de la obra a través de las palabras de su pareja: “Era el chico de internet… y el viejo mundo lo mató”.
 
-### Pienso pensamientos 
+### Pienso pensamientos
 
 ¿Qué se aprende del documental?
 
-El documental parte con una cita de Henry David Thoreau que deja en claro el tono desde el inicio: _"Unjust laws exist; shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once?"_. Esta frase funciona como una especie de advertencia de lo que viene: una reflexión constante sobre la relación entre ley y justicia, y sobre si realmente siempre coinciden. Desde ahí se instala una pregunta incómoda pero necesaria: ¿qué pasa cuando las leyes no logran adaptarse a los cambios tecnológicos y terminan siendo injustas? 
+El documental parte con una cita de Henry David Thoreau que deja en claro el tono desde el inicio: _"Unjust laws exist; shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once?"_. Esta frase funciona como una especie de advertencia de lo que viene: una reflexión constante sobre la relación entre ley y justicia, y sobre si realmente siempre coinciden. Desde ahí se instala una pregunta incómoda pero necesaria: ¿qué pasa cuando las leyes no logran adaptarse a los cambios tecnológicos y terminan siendo injustas?
 
 Uno de los temas más importantes que atraviesa el documental es la idea de que **el conocimiento es poder** pero inmediatamente aparece la otra cara: **¿quién controla ese poder?**. A lo largo de la historia se muestra cómo universidades, editoriales y grandes corporaciones limitan el acceso a investigaciones que muchas veces fueron financiadas con dinero público. Como plantea el propio relato, no se trataba simplemente de descargar archivos, sino de una discusión mucho más profunda: si el conocimiento debería ser un bien común o un recurso privado (Knappenberger, 2014). Desde una experiencia personal como estudiante, esto no se siente lejano en absoluto; es bastante común encontrarse con artículos bloqueados detrás de pagos o suscripciones, lo que hace evidente que el acceso a la información sigue siendo un privilegio más que un derecho.
 
 En este punto, las ideas de Aaron Swartz se conectan directamente con su “Manifiesto de la guerrilla por el acceso abierto”, donde plantea que el conocimiento científico y cultural debería ser compartido libremente. Ahí propone que quienes tienen acceso a bases de datos académicas tienen también una responsabilidad ética: liberar esa información para el resto del mundo. Más que un acto ilegal en sí, lo presenta como una forma de desobediencia civil frente a un sistema que privatiza el saber (Swartz, 2008). Esto ayuda a entender mejor sus motivaciones y también por qué su caso generó tanto debate.
 
-Por otro lado, el documental rompe con la idea de que internet es un espacio naturalmente libre. Muestra que esa libertad depende completamente de decisiones políticas, económicas y legales. Gobiernos y empresas tienen el poder de moldear la red: pueden decidir qué se ve, qué se oculta y qué circula más. En ese sentido, internet deja de ser solo una herramienta tecnológica y pasa a ser un campo de disputa. Incluso hoy se puede ver cómo ciertas informaciones se invisibilizan o se desplazan del foco público (como el caso epstein que si bien no tiene relación con lo academico si es notable la manipulación que hay respecto a la información), lo que demuestra que el control de la información no es algo abstracto, sino muy concreto. "La red puede ser una herramienta de democratización, pero solo si existen condiciones reales que lo permitan". 
+Por otro lado, el documental rompe con la idea de que internet es un espacio naturalmente libre. Muestra que esa libertad depende completamente de decisiones políticas, económicas y legales. Gobiernos y empresas tienen el poder de moldear la red: pueden decidir qué se ve, qué se oculta y qué circula más. En ese sentido, internet deja de ser solo una herramienta tecnológica y pasa a ser un campo de disputa. Incluso hoy se puede ver cómo ciertas informaciones se invisibilizan o se desplazan del foco público (como el caso epstein que si bien no tiene relación con lo academico si es notable la manipulación que hay respecto a la información), lo que demuestra que el control de la información no es algo abstracto, sino muy concreto. "La red puede ser una herramienta de democratización, pero solo si existen condiciones reales que lo permitan".
 
 Otro aspecto importante es la crítica al sistema judicial estadounidense, Se evidencia cómo leyes pensadas para otros contextos tecnológicos pueden aplicarse de forma desproporcionada en el mundo digital. Más que buscar justicia, da la impresión de que el sistema intentó dar un “castigo ejemplar”, con penas extremadamente altas, para disuadir a otros. Esto deja abierta una reflexión importante sobre la diferencia entre legalidad y justicia, y sobre cómo las instituciones responden cuando alguien desafía sus reglas desde una posición ética.
 
@@ -146,4 +146,3 @@ A nivel personal, es imposible no conmoverse por el costo humano de estas convic
 - Lessig, L. (2013). Prosecutor as Bully. Huffington Post. <https://www.huffpost.com/entry/aaron-swartz-suicide_b_2467079>
 - Swartz, A. (2008). Guerilla Open Access Manifesto. (es un libro, pero acá esta el manifiesto: <https://es.anarchistlibraries.net/library/aaron-swartz-guerilla-open-access-manifesto>)
 - Thoreau, H. D. (1849). Civil disobedience. (cita del principio)
-

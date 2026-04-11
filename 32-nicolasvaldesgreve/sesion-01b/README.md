@@ -1,4 +1,5 @@
 # sesion-01b
+
 ## Apuntes 13/03
 
 ### Ley de Ohm
@@ -32,7 +33,7 @@ También aprendimos que la resistencia no tiene polaridad, por lo cual da lo mis
 
 ---
 
-### The internet's own boy - Aaron Swartz Full Documentary
+## encargo-01b: The internet's own boy - Aaron Swartz Full Documentary
 
 Desde pequeño Aaron Swartz estuvo involucrado con la tecnología, ya que tuvo acceso a una computadora con wifi desde una edad temprana, ganando así bastante conocimiento del internet lo cual le generó más interés en éste mismo. A los 12 años, Aaron creó la página "the info network" (theinfo.org), el cual era un lugar en donde todas las personas podían entrar y compartir su conocimiento sobre lo que sea que quisieran compartir, también teniendo la opción de editar información que ya estuviese dentro de la página en caso de ser erronea. Ésta página consiguió ganar el premio ArsDigita, y Aaron comenzó a introducirse más en la comunidad online de la programación buscando herramientas para mejorar la web, razón por la cual se puso a trabajar en el "RSS" (Really Simple Syndication).
 
@@ -40,13 +41,13 @@ Cuando Aaron entró a la secundaria (high school), no le gustaba la escuela ni l
 
 Aaron estaba muy interesado en el copyright, ya que este limitaba bastante el poder compartir el conocimiento con todas las personas del internet, que era lo que Aaron trataba de hacer ya que él consideraba que el conocimiento debía ser algo completamente público, y que no era justo el limitar a la gente de poder tener información tan importante e interesante y que solo puedes obtenerla si le pagas a empresas millonarias. Por ésto mismo, Aaron trabajó con Lawrence Lessig en crear Creative Commons, el cual a diferencia del copyright, te permite que la gente comparta su trabajo y permita que los demás lo usen, mientras ellos pueden elegir qué cosas van a necesitar una licencia para poder usarlo.
 
-Aaron entró a la universidad y se salió al año, ya que se puso a trabajar en Infogami, en donde conoció a los fundadores de un proyecto en el cual necesitaban ayuda, siendo éste proyecto Reddit. Rápidamente Reddit se vuelve famoso, ya que convierte en un lugar bastante libre en donde la gente puede discutir sobre temas variados, publicar memes, contenido ofensivo, etc. 
+Aaron entró a la universidad y se salió al año, ya que se puso a trabajar en Infogami, en donde conoció a los fundadores de un proyecto en el cual necesitaban ayuda, siendo éste proyecto Reddit. Rápidamente Reddit se vuelve famoso, ya que convierte en un lugar bastante libre en donde la gente puede discutir sobre temas variados, publicar memes, contenido ofensivo, etc.
 
 Debido a su pasión por querer crear un mundo en donde la información pudiese ser pública, Aaron creó Watchdog.net en donde se podía recolectar y visibilizar información sobre politicos, y un proyecto llamado "Open Library" (openlibrary.org) el cual era una wiki editable de una página por libro, combinando así la información de distintas personas. Luego de crear estas webs, Aaron escribió el "Guerilla Open Acces Manifesto", en donde habla sobre sus ideas políticas y llama a la liberación y acceso libre a los articulos científicos. Luego, Aaron se empezó a interesar bastante en Jstor (librería digital), en donde se dio cuenta que las personas de MIT tenían acceso a Jstor y vio esto como una oportunidad, por lo que agarró una pc Acer, se metió a la network de MIT, y empezó a descargar una cantidad masiva de archivos y fue detenido por ello. Años después, se le añadieron nuevos cargos lo cual aumentó la posible pena de Aaron por 50 años, solo por descargar muchos archivos lo cual era ridículo. Aaron era un activista antisistémico, luchó en contra de la ley SOPA (Stop Online Piracy), ayudó a lanzar el Comité de Campaña de Cambio Progresivo, participó en la fundación de Demand Progress, y creó una plataforma para que los periodistas se pudieran comunicar de manera segura. Debido a los 50 años de pena que le estaban imponiendo (un millón de dólares en multa), Aaron no pudo soportar la presión del Estado y decidió por terminar con su vida, solo por querer crear un mundo mejor en donde el conocimiento es un derecho y no un privilegio que solo puedes conseguir si pagas monetariamente por ello.
 
 ---
 
-**Bibliografía**
+### Bibliografía
 
 Vernal, M. (2018, Enero 11). _Aaron Swartz: La historia de uno de los grandes genios de nuestros tiempos._ <https://applauss.com/2018/01/11/aaron-swartz-historia/>
 

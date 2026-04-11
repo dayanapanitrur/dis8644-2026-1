@@ -6,7 +6,7 @@ Tienes que saber amarte, para amar a otros - Aarón Montoya
 
 Know how and Know what.
 
-Por ahora estan explicando el flujo de energia con una metafora de flores y agua 
+Por ahora estan explicando el flujo de energia con una metafora de flores y agua
 
 - High: (H) Parte de una proporcionalidad para el flujo de la energia
 
@@ -18,7 +18,7 @@ Por ahora estan explicando el flujo de energia con una metafora de flores y agua
 
 *La corriente es igual al voltaje dividido en la resistencia: Como tal es proporcional o explota todo*
 
-LED: La pata larga es la positiva y la corta es la negativa 
+LED: La pata larga es la positiva y la corta es la negativa
 
 Rafael Benguria: es un físico-matemático chileno, Premio Nacional de Ciencias Exactas de 2005 por sus investigaciones en Física Matemática, y actual profesor de la Pontificia Universidad Católica de Chile
 
@@ -26,11 +26,13 @@ Rafael Benguria: es un físico-matemático chileno, Premio Nacional de Ciencias 
 
 ---
 
+## encargo-01b
+
 Documental: La Historia de Aaron Swartz | El chico de Internet/ The Internet's Own Boy - Aaron Swartz
 
-*Si alguien de casualidad ve esto antes de la entrega por curiosidad: https://kolektiva.media/w/eHxTApxsZ4eeVy1mJmnZKg*
+*Si alguien de casualidad ve esto antes de la entrega por curiosidad: <https://kolektiva.media/w/eHxTApxsZ4eeVy1mJmnZKg>*
 
-## Apuntes:
+## Apuntes
 
 Empezamos fuerte...
 El cofundador de Reddit fue hallado muerto (nuestro protagonista)
@@ -42,6 +44,7 @@ Tanto fue esta inteligencia que con sus hermanos programaron un juego de pregunt
 Con los años se unio a diferentes grupos onlines sobre paginas webs y se le subio un poco el ego por ello.
 
 El programa en el cual estaba involucrado se llamaba: RSS
+
 Tambien con el desarrollo temprano de Reddit y el movimiento CC (Creative Commons)
 
 Con nuevos conocimientos Aaron fue creciendo, volviendose un activista que defendia la idea de que el conocimiento debe compartirse gratuitamente por el mundo
@@ -53,5 +56,3 @@ Al pasar el documental se deja ver en cuales movimientos estaba a favor de la li
 Para su causa en 2011 Swartz descargó millones de articulos academicos para liberar este conocimiento al publico, pero con ello fue acusado de fraude informatico con una alta condena.
 
 Y ya para 2013 terminamos donde comenzamos, con su muerte y su legado.
-
-

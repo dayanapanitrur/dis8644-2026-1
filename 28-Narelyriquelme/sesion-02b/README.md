@@ -39,3 +39,24 @@ Es la pieza fundamental en dispositivos que se activan automáticamente al anoch
 ![Prueba 2](./imagenes/potenciometro.jpg)
 
 ![Prueba 3](./imagenes/fotoresistor.jpg) 
+
+## encargo proxima clase 
+1.¿Por qué un resistor de $1k\Omega$ hace que un LED brille más que uno de $100k\Omega$?
+
+2.¿Qué pasa si conectas un LED a una batería de 9V sin ningún resistor?
+
+3.¿Para qué sirve el potenciómetro en tu circuito de sonido?
+
+4.¿Qué sucede con la velocidad del parpadeo si usas un condensador más grande?
+
+5.¿Cómo influye la luz en una fotorresistencia (LDR)?
+
+6.¿Qué significa que dos resistores estén en "serie"?
+
+7.¿Qué pasa si un cable "positivo" toca uno "negativo" directamente?
+
+8.¿Para qué sirven las bandas de colores en los resistores de tu foto?
+
+9.¿Por qué usamos un protoboard en lugar de soldar los cables de una vez?
+
+10.¿Qué función tiene el chip 555 en tu instrumento electrónico?

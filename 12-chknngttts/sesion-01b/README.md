@@ -1,6 +1,7 @@
 # sesion-01b
 
 - ## Protoboard
+
   - Que es una protoboard?
     - Las protoboard o breadboard es un aparato que sirve para proyectos de electricos
       - La gracia es que no se necesita soldar inmediatamente para ver si tu circuito funciona
@@ -15,8 +16,9 @@
     - Todas estas lineas de cobre/estaño/fósforo están encapsuladas en una carcasa de plastico que encapsula la placa entera
       - Para hacer efectiva la gracia de no necesitar soldadura, la carcasa cuenta con orificios a lo largo de la parte superiór
         - Las placas de 400 orificios suelen contar con 100 a lo largo de las barras de corriente y 300 (150 en cada sección) para las barras de conexción
-       
+
 - ### Mini test protoboard
+
   - Para el test de las protoboard usamos:
     - 1 Luz LED
       - Existen algunos metodos para poder identificar la parte positiva y negativa
@@ -35,11 +37,11 @@
     - 1 Resistor
       - Esto permite "controlar" la cantidad de corriente que llega a la luz LED
         - De no ser por el resistor, el circuito probablemente se quemaría y la LED dejaria de funcionar
-       
+
     (FOTO DE PROTOBOARD CLASE)
 
+- ## encargo-01b: The Internet's Own Boy - Documental de Aaron Swartz
 
-- ## The Internet's Own Boy - Documental de Aaron Swartz
   - Brian Knappenberger (Director)
     - 2014 (Fecha de estreno)
   - Aaron Swartz era un genio de la computación y era admirado por muchos
@@ -68,7 +70,7 @@
       - Empezó a trabajar con Lawrence Lessig para implementar CC (Creative Commons) en el internet
         - CC siendo una forma de Copyright donde los dueños de cierta creación pueden dar algunos permisos al publico
       - Aaron tomó el rol de crear la estructura digital para CC
-    - 2004, Aaron entra la universidad de Standford
+    - 2004, Aaron entra la universidad de Stanford
       - Tenia problemas de salud que afectaban su rendimiento y experiencia universitaria
       - Al año, le ofrecen una practica en un start-up llamado Y-Combinator
     - Steve Huffman y Alexis Ohanian necesitan ayuda con un proyecto
@@ -93,7 +95,7 @@
             - 20 milliones de paginas aprx
           - La FBI empieza a investigar a Aaron y sus compañeros
     - Se empieza a interesarse más en otros problemas de la politica
-      - Le atrae "jstore"
+      - Le atrae "jstor"
         - Una pagina que vende articulos/publicaciónes/investigaciónes de ciencia y otros campos
         - Decide hacer algo al respecto
           - Crea un script en Python para descargar los articulos de manera gratiuta
@@ -116,5 +118,5 @@
       - Nadie entiende muy bien por qué
       - El impacto de esto lleva a cambio de leyes del internet, acceso a documentos publicos y más
         - Uno siendo un avanze que detecta el cancer de pancreas desarrollado por un niño tras leer articulos en jstore
-       
+
 (falta cierre mejor idk)

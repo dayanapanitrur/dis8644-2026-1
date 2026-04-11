@@ -35,6 +35,9 @@
 ![resultados](./imagenes/resultados.jpeg)
 
 
+al realizar los ejercicios y retirar las diferentes resistencias se obtenía como posibles resultado que se apagaran algunos de los leds, sin embargo en la mayoría de los casos no ocurría esto, especificamente en el ejercicio 3 en el cual solo se obtiene una variación en uno de los leds y los demás seguían encendidos.
+
+
 # kraftwerk #
 
 Kraftwerk se formó a finales de 1960 con una propuesta reconocida por el uso de sonidos sintéticos y repetitivos. Sus fundadores, Ralf Hütter y Florian Schneider buscaron reflejar la identidad alemana de postguerra, donde la mezcla entre ragos mecánicos y humanos se entrelaza entre sus canciones.

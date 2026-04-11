@@ -4,18 +4,29 @@ viernes 20 de marzo
 
 ## Apuntes clase
 
-pendiente traspasar
+- Fotoresistor (LDR): resistencia que varía según la cantidad de luz que recibe.
+  - Más luz → menor resistencia
+  - Menos luz → mayor resistencia
+- Chip 555: uno de los circuitos integrados más utilizados en electrónica, especialmente para generar pulsos, temporizadores y oscilaciones.
 
-### Repaso materia
+### Fotos de lo hecho en clase
 
-## Resistencias
+![foto con ds](./imagenes/fotitods.jpg)
+
+![chip 555](./imagenes/conexioneschip.jpg)
+
+![circuito con condensador](./imagenes/circuitoconcondensador.jpg)
+
+## Repaso materia
+
+### Resistencias
 
 - Limita el paso de la corriente
 - Controla el voltaje dentro del circuito
 
 Las resistencias usan un código de colores para indicar su valor en OHM (Ω)
 
-## Código de colores
+### Código de colores
 
 | Color    | Valor |
 |----------|------|
@@ -32,7 +43,7 @@ Las resistencias usan un código de colores para indicar su valor en OHM (Ω)
 
 (pendiente subir esquema de ejemplo de cómo leer la resistencia ya teniendo el código de colores) 
 
-## Condensadores/Capacitores
+### Condensadores/Capacitores
 
 - Almacena energía eléctrica temporalmente
 - Se carga y descarga
@@ -54,7 +65,7 @@ Cerámico:
 
 En el esquemático se representa así: ||
 
-### Preguntas
+## Preguntas
 
 - ¿Se pueden usar leds RGB en este tipo de circuitos?
 - ¿Los esquemáticos se pueden armar en físico de distintas maneras? 

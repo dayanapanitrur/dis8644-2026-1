@@ -1,5 +1,52 @@
 # sesion-02a
+## Apuntes 
+### resistencias
+Las resistencias o resistores son los componentes más comunes en la electrónica. Su función principal es oponerse al paso de la corriente eléctrica, actuando como un "embudo" o un limitador.
 
+**1. Su función**
++ Protección: Evitan que llegue demasiada corriente a componentes delicados (como tus luces LED o el chip 555) y los quemen.
++ Divisores: Ayudan a repartir el voltaje en diferentes partes de un circuito.
++ Control de tiempo: En tu circuito astable, el resistor decide qué tan rápido se carga el condensador, lo que define la velocidad del parpadeo o el tono del sonido.
+  
+**2. Unidad de medida**
+
+  La unidad de medida es el Ohmio ($\Omega$).
+  + Valores bajos (ej. 220 $\Omega$): Permiten pasar mucha corriente.
+  + Valores altos (ej. 100k $\Omega$): Permiten pasar muy poca corriente.
+
+ **3. El Código de Colores**
+ 
+Como los resistores son muy pequeños para escribir números en ellos, se usan bandas de colores para identificar su valor.
++ Las primeras dos bandas son números.
++ La tercera es el multiplicador (cuántos ceros agregas).
++ La cuarta (usualmente dorada) es la tolerancia (qué tan preciso es el valor).
+
+![presentacion actual](./imagenes/apuntes-resistores.jpg)  
+
+### Circuitos 
+**1. Circuito básico**
++ Fuente: Una batería de 9V
++ Resistor de 1k: Actúa como el "regulador de velocidad" para la electricidad.
++ LED: El componente que se ilumina.
++ Cables: Los caminos (cables dupond).
+
+**2. Circuito en Serie**
+
+En un circuito en serie, los componentes se conectan uno tras otro, como los eslabones de una cadena. Hay un solo camino para la corriente.
++ Corriente: Es la misma en todos los componentes.
++ Voltaje: Se reparte entre los componentes. Si una luz se quema, el circuito se abre y nada funciona.
++ Resistencia Total: Se suma directamente ($R_T = R_1 + R_2$).
+
+**2. Circuito en Paralelo**
+
+Aquí, los componentes se conectan a los mismos dos puntos comunes. La corriente tiene varios caminos para f
++ Corriente: Se divide entre las rama
++ Voltaje: Es el mismo para todos los componentes (todos reciben el voltaje total de la fuente).
++ Independencia: Si un componente falla, los demás siguen funcionando. Es como las luces de una casa.
++ Resistencia Total: Disminuye al agregar más ramas ($1/R_T = 1/R_1 + 1/R_2$).
+
+
+---
 ## Encargo: LQXTLC
 
 ### Ejercicio 1

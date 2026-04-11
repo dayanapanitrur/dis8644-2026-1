@@ -60,6 +60,14 @@ Para dos resistencias en paralelo, la fórmula simplificada que mencionaste (mul
 
 https://github.com/user-attachments/assets/a6650c78-b97b-4c8c-8c9e-d1963e3b5500
 
+https://github.com/user-attachments/assets/4d6c63b8-cb2f-49a7-9113-e06dd1082fd2
+
+<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/a92d62ad-26d6-4bc3-be46-87a8b47235ac" />
+<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/579ff073-117f-46df-ba7e-711d3ed91fa9" />
+<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/32bf51d0-9083-4fb0-bb80-ca2ac5bf1fa5" />
+
+
+
 R1 va a ser un pote
 R4 va a ser un LDR
 C1 va ser de 100n

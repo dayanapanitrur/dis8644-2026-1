@@ -15,7 +15,7 @@
     - 220 (Rojo Rojo Cafe Dorado)
     - 1K (Cafe Negro Rojo Dorado)
       
-  ![Tabla Resistores Color](./imagenes/tabla_colores.png)
+  ![Tabla Resistores Color](./imagenes/tabla-colores.png)
   
       imagen de Mecatronium Chips
 

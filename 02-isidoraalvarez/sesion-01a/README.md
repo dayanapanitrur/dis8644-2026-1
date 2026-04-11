@@ -1,6 +1,8 @@
 # sesion-01a
 
-# Laurie Spiegel y su aporte a la música electrónica
+## encargo-01a
+
+### Laurie Spiegel y su aporte a la música electrónica
 
 El documental Sisters with Transistors, dirigido por Lisa Rovner, presenta la historia de varias mujeres pioneras en la música electrónica, mediantes entrevistas y material de archivo, el documental explica cómo estas compositoras utilizaron nuevas tecnologías para crear sonidos innovadores en un campo que durante mucho tiempo estuvo dominado por hombres. Entre ellas Laurie Spiegel, quien desarrolló nuevas formas de crear música usando computadoras.
 

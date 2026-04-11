@@ -37,8 +37,18 @@ Luego de revisar varias veces no sabíamos qué más cambiar por lo que revisamo
 
 Cambiamos el cable de la resistencia 2 del primer botón para conectarlo directo a la patita 3 del potenciometro y luego conectamos la resistencia 2 directamente a la patita 2 del chip y ahí sí funcionó.
 
+### Encargo 2
 
+Documental: https://www.youtube.com/watch?v=sJ9EZWBZee8
 
+En el documental se muestra a José Vicente Asuar como alguien que tenía una relación muy profunda con la música, viviéndola de forma intensa y no solamente  como trabajo, sino como el centro de su vida.
 
+Más que seguir las reglas tradicionales, el trabajaba el sonido desde otro lugar, usando frecuencias, ruidos y cambios mínimos para construir algo nuevo. Eso se nota harto en sus partituras, que no son convencionales sino que están hechas con líneas y formas que representan sonidos y variaciones.
 
+Además, fue de los primeros en mezclar música con ingeniería en el contexto latinoamericano, creando incluso su propio sistema, el COMDASUAR, pensado solo para componer. 
 
+Su obra Variaciones Espectrales, estrenada en 1959, marca un punto importante al ser considerada la primera pieza de música electrónica en Chile.
+
+El cierre del documental igual me pareció loco, porque plantea que la música fue su gran amor, pero quizás no lo suficiente, dejando una sensación media abierta sobre su relación con todo lo que hizo.
+
+También se puede ver que no siempre basta con que algo te guste mucho si el entorno no acompaña,  aunque alguien haga cosas importantes, no siempre se valoran y en Chile lamentablemente muchas veces no se aprovecha bien el talento ni se da a conocer.

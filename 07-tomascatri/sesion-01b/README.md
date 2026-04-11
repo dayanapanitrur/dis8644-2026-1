@@ -1,12 +1,14 @@
 # sesion-01b
-## apuntes 
+
+## apuntes
+
 Apuntes realizados para la clase del viernes 13 de Marzo
 
 ---
 
 ### Cómo usar el repositorio de GitHub
 
-Funciona de forma similar a programar, parecido a **p5.js** a mi parecer. Aunque en pocas cosas, enseñaron conceptos básicos de **cómo funciona GitHub**, como las **bifurcaciones** (forks), dónde está cada documento y cómo **navegar por GitHub** y sus archivos. 
+Funciona de forma similar a programar, parecido a **p5.js** a mi parecer. Aunque en pocas cosas, enseñaron conceptos básicos de **cómo funciona GitHub**, como las **bifurcaciones** (forks), dónde está cada documento y cómo **navegar por GitHub** y sus archivos.
 
 Las bifurcaciones funcionan de manera que cada uno tiene una copia original de los archivos creados por el profesor, pero estos archivos son totalmente nuestros a menos que nos **resincronicemos** de nuevo al repositorio original. Si no hago la sincronía, mis archivos serán diferentes a los del profesor porque se pueden llegar a compartir; además, la navegación es como cualquier explorador de archivos de cualquier sistema operativo.
 
@@ -18,9 +20,10 @@ nos enseñaron a **como escribir en github**, de lo que mas destaco y recuerdo f
 
 Nos enseñaron las bases de cómo funciona la **electricidad**, la **potencia** y los **circuitos**. Funciona como un balde de agua con una manguera: el agua (electricidad) pasa por ella con una potencia que se puede manejar con una **resistencia**, para no destruir la "maceta" con demasiada presión.
 
-En cuanto a la **Ley de Ohm**, esta establece que la corriente que circula por un conductor es directamente proporcional al voltaje e inversamente proporcional a la resistencia. Su fórmula fundamental es: Corriente = Voltaje X Resistencia. Después de esto, nos enseñaron a cómo usar la **protoboard**. Empezamos con una **resistencia**, un **alimentador** (que en esta clase no pudo alimentar, pero en la próxima tendrá "comida"), una **tira LED** y **cables conductores**. 
+En cuanto a la **Ley de Ohm**, esta establece que la corriente que circula por un conductor es directamente proporcional al voltaje e inversamente proporcional a la resistencia. Su fórmula fundamental es: Corriente = Voltaje X Resistencia. Después de esto, nos enseñaron a cómo usar la **protoboard**. Empezamos con una **resistencia**, un **alimentador** (que en esta clase no pudo alimentar, pero en la próxima tendrá "comida"), una **tira LED** y **cables conductores**.
 
 La protoboard se divide en partes y polos:
+
 1. **Polos:** Positivo y negativo, los cuales tienen buses metálicos de manera **horizontal**.
 2. **Nodos de conexión:** Las entradas centrales están conectadas de manera **vertical**.
 

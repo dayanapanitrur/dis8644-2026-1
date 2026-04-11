@@ -1,16 +1,18 @@
 # sesion-01a
 
+## encargo-01a
+
 Sister with transistors: Delia Derbyshire
 
 ​Delia Derbyshire (1937–2001) fue una compositora y matemática británica cuya labor en el BBC Radiophonic Workshop transformó la percepción del sonido en los medios de comunicación masivos. Es reconocida mundialmente por haber dado forma sonora al tema original de la serie Doctor Who, sentando las bases de lo que hoy conocemos como diseño sonoro y música electrónica de vanguardia.
 
-​Bibliografía
+​### Biografía
 
 ​Orígenes: Nacida en Coventry, Inglaterra. Su interés por los sonidos abstractos nació de las sirenas de bombardeo durante la Segunda Guerra Mundial, que ella describe como "sonidos electrónicos naturales".
 ​Academia: Se graduó en el Girton College de la Universidad de Cambridge en dos áreas clave: Matemáticas y Música. Esta combinación le permitió abordar el sonido desde una perspectiva física y logarítmica, no solo estética.
 ​Barreras de Género: En 1959, fue rechazada por Decca Records bajo el argumento de que la empresa "no contrataba mujeres para sus estudios de grabación". En 1960, logró ingresar a la BBC como "asistente de estudio".
 
-Obras Clave
+​### Obras Clave
 
 ​Tema de Doctor Who (1963): Aunque la partitura fue escrita por Ron Grainer, Delia la "realizó". Creó un sonido futurista y misterioso que no se parecía a nada escuchado anteriormente en televisión. Utilizó sonidos que grabo en cintas de forma manual y las repetía para generar el tema.
 
@@ -23,7 +25,8 @@ Obras Clave
 ​Influencia: Su huella es visible en el trabajo de bandas como Kraftwerk, Aphex Twin, The Chemical Brothers y Pink Floyd.
 ​Archivo: Tras su muerte, se recuperaron 267 cintas en su hogar, las cuales forman el "Delia Derbyshire Archive" en la Universidad de Manchester, sirviendo de estudio para nuevas generaciones de compositores.
 
-​Fuentes y Referencias
+​### Fuentes y Referencias
+
 ​Sisters with Transistors (2020), documental dirigido por Lisa Rovner.
 ​The Delia Derbyshire Archive, University of Manchester Library.
 ​BBC Radiophonic Workshop: 60 years of sound innovation, archivo histórico de la BBC.

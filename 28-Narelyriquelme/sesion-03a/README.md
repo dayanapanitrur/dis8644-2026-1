@@ -1,4 +1,37 @@
 # sesion-03a
+## Apuntes
+### chip 555
+
+![gif 555](./imagenes/timer-chip555.gif) 
+
+Explicacion de gemini: Imagina que el chip 555 es como un vigilante que controla un tanque de agua (el capacitor). Su único trabajo es abrir y cerrar llaves siguiendo dos reglas muy simples:
++ Llenado: Cuando el tanque está casi vacío (llega a 1/3), el vigilante enciende la luz y deja que el agua entre. El agua sube lentamente porque tiene que pasar por unos tubos estrechos (las resistencias).
++ Vaciado: En cuanto el tanque se llena hasta cierto punto (2/3), el vigilante apaga la luz y abre un desagüe para que el agua salga.
+
+Como el desagüe también es un tubo, el tanque tarda un tiempo en vaciarse. Cuando vuelve a estar casi vacío, el vigilante repite el proceso. Al hacerlo una y otra vez sin parar, la luz se prende y se apaga sola, creando ese "latido" constante que hace que el circuito sea astable.
+
+### Velocidad de oscilación
+
+En un circuito astable, la frecuencia de la señal (qué tan rápido ocurre el ciclo) depende directamente de la interacción entre las resistencias y el capacitor. No es un valor fijo, sino una relación de tiempo que se puede calcular y modificar según los componentes elegidos:
++ Capacitor más grande: Tarda más en llenarse y vaciarse, por lo que el parpadeo es más lento (frecuencia baja).
++ Resistencias más grandes: Frenan el paso de corriente, haciendo que el ciclo sea más largo.
+
+### Circuito Astable
+
+Se llama "astable" porque no tiene un estado estable. No se queda ni encendido ni apagado permanentemente; en cambio, oscila.
+
+En esta configuración, el chip funciona como un interruptor automático que se prende y apaga solo, creando una onda cuadrada.
+
+Para que el 555 oscile solo, usamos una combinación de resistencias R y un capacitor C.
+
+**1. Carga:** La corriente pasa por las resistencias y comienza a llenar el capacitor. Mientras el capacitor se carga y su voltaje es bajo, la salida del chip está en ALTO (el LED se enciende).
+
+**2. El límite superior:** Cuando el capacitor se llena y alcanza los 2/3 del voltaje, el chip lo detecta y cambia la salida a BAJO (el LED se apaga).
+
+**3. Descarga:** En ese momento, el chip abre un camino interno (pin 7) para que el capacitor se vacíe a través de una de las resistencias.
+
+**4. El límite inferior:** Cuando el capacitor se vacía y llega a 1/3 del voltaje, el chip vuelve a activar la salida y el ciclo comienza de nuevo.
+
 ---
 ## Encargo 1
 ### Oscilador de Tonos

@@ -1,12 +1,78 @@
-# comprobar que los archivos esten bien nombrados, es decir, que no tengan espacios, tildes, etc.
+permissions:
+  contents: write
 
-name: comprobarNombresArchivos
 
-on: [push, pull_request]
+name: comprobar nombres de archivos
+
+on:
+  push:
+    branches:
+      - main
+
 
 jobs:
-  check:
+  nombres:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
     steps:
       - uses: actions/checkout@v4
-      - uses: piruetasxyz/nombresArchivos@v0.0.9
+        with:
+          fetch-depth: 0
+
+      - name: Ejecutar action
+        id: nombres
+        uses: piruetasxyz/nombresArchivos@v0.1.2
+        with:
+          arreglar: true
+
+      - name: Comentar en PR (sin spam)
+        if: steps.nombres.outputs.hay_cambios == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('cambios.txt', 'utf8');
+
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+
+            // buscar comentario previo
+            const comments = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number
+            });
+
+            const botComment = comments.data.find(c =>
+              c.user.type === 'Bot' &&
+              c.body.includes('### 🔧 Archivos renombrados')
+            );
+
+            if (botComment) {
+              // actualizar
+              await github.rest.issues.updateComment({
+                owner,
+                repo,
+                comment_id: botComment.id,
+                body
+              });
+            } else {
+              // crear nuevo
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body
+              });
+            }
+
+      - name: Commit cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git diff --staged --quiet || git commit -m "chore: normalizar nombres de archivos"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}

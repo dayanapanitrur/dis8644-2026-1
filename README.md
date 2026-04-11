@@ -15,10 +15,10 @@
 | [02a](./00-docentes/sesion-02a/) | 03-17 mar  | entrega materiales, resistores en paralelo y serie   |
 | [02b](./00-docentes/sesion-02b/) | 03-20 vie  | esquemáticos, circuitos integrados, chip 555         |
 | [03a](./00-docentes/sesion-03a/) | 03-24 mar  | parlantes y sonido                                   |
-| [03b](./00-docentes/sesion-03b/) | 03-27 vie  |                                                      |
-| [04a](./00-docentes/sesion-04a/) | 03-31 mar  |                                                      |
+| [03b](./00-docentes/sesion-03b/) | 03-27 vie  | resistor equivalente, circuito monostable chip 555   |
+| [04a](./00-docentes/sesion-04a/) | 03-31 mar  | simulación de circuitos en Falstad                   |
 | [04b](./00-docentes/sesion-04b/) | 04-03 vie  | no hay clases, día feriado                           |
-| [05a](./00-docentes/sesion-05a/) | 04-07 mar  |                                                      |
+| [05a](./00-docentes/sesion-05a/) | 04-07 mar  | chips para VCO, modularidad de sintetizadores        |
 | [05b](./00-docentes/sesion-05b/) | 04-10 vie  |                                                      |
 | [06a](./00-docentes/sesion-06a/) | 04-14 mar  |                                                      |
 | [06b](./00-docentes/sesion-06b/) | 04-17 vie  |                                                      |

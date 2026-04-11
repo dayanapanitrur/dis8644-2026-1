@@ -1,4 +1,5 @@
 # sesion-01a
+
 ---
 
 Y volvemos a este espacio! (っ˘ω˘ς ) Aunque no se si deba avanzar esto, porque el lugar esta... construyéndose todavía.
@@ -43,20 +44,20 @@ Brian Hodgson: Ingeniero y compositor del Radiophonic Workshop
 
 - Pero eso no significó que mucha gente utilizara y se basara en sus descubrimientos para hacer nuevas composiciones, siendo una gran precedente en la música electrónica.
 
---- 
+---
 
-### Referencias Bibliográficas  (*￣▽￣)b
+## Referencias Bibliográficas  (*￣▽￣)b
 
-(https://proyectoidis.org/delia-derbyshire/)
+(<https://proyectoidis.org/delia-derbyshire/>)
 
-(https://blog.teufelaudio.es/delia-derbyshire/)
+(<https://blog.teufelaudio.es/delia-derbyshire/>)
 
-(https://delia-derbyshire.net/sites/interview_surface.php.html)
+(<https://delia-derbyshire.net/sites/interview_surface.php.html>)
 
-(https://voxmeditantis.com/2025/07/02/delia-derbyshire-the-unsung-hero-of-electronic-music/)
+(<https://voxmeditantis.com/2025/07/02/delia-derbyshire-the-unsung-hero-of-electronic-music/>)
 
-(https://web.archive.org/web/20240322001526/http://www.delia-derbyshire.org/)
+(<https://web.archive.org/web/20240322001526/http://www.delia-derbyshire.org/>)
 
-(https://www.heritagefund.org.uk/stories/celebrating-music-pioneer-delia-derbyshire-doctor-whos-60th-anniversary)
+(<https://www.heritagefund.org.uk/stories/celebrating-music-pioneer-delia-derbyshire-doctor-whos-60th-anniversary>)
 
-(https://en.wikipedia.org/wiki/Delia_Derbyshire)
+(<https://en.wikipedia.org/wiki/Delia_Derbyshire>)

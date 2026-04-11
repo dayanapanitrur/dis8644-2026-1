@@ -1,5 +1,7 @@
 # sesion-02a
 
+## encargo
+
 ## **Kraftwerk**
 
 # **The Man-Machine-1978**
@@ -18,11 +20,11 @@ No es algo que diría me encanta, pero sí es algo que se siente distinto, y eso
 
 ## **Referente**
 
-https://youtu.be/EdubMwbOndo
+<https://youtu.be/EdubMwbOndo>
 
 ## **LCD Soundsystem**
 
-# ** Sound of Silver**
+# **Sound of Silver**
 
 Mi primera impresión fue que era un concierto típico de los que uno está acostumbrado pensé que era tipo tranquilo, no como  Kraftwerk. pero a medida que avanzaba la presentación la energía empezó a subir su ritmo la energía que transmitía. Se siente más simple al principio, pero igual tiene mucha energía por parte del público.
 
@@ -40,4 +42,4 @@ Lo que más me quedó es que es un concierto donde la música no necesita ser co
 
 ## **Referente**
 
-https://www.youtube.com/watch?v=GHiQ5UMfoO0
+<https://www.youtube.com/watch?v=GHiQ5UMfoO0>
