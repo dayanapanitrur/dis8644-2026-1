@@ -14,6 +14,7 @@ La notación científica se usa porque los valores en electrónica pueden ser mu
 Se basa en potencias de 10.
 
 Para eso debemos entender que:  
+![frt1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
 
 
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
