@@ -10,6 +10,7 @@ El día de hoy vamos a ver en estas letras lo siguiente:
 3. El encargo 04, respectivo a esta unidad.
 
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
+![cascada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
 
 ## 3. El encargo 04, respectivo a esta unidad.
 
