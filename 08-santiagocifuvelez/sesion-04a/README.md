@@ -40,7 +40,6 @@ El dispositivo que voy a desarmar para hacer mi respectivo análisis, es un cont
 
 ![fto4](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/control4.jpeg)
 
-
 5.	Ahora que ya seleccionamos esas dos partes del cuerpo del control remoto, vamos a ver los elementos que encontramos en la placa, quizá algunos conocidos, otros no, como:  
 
 Parte trasera/marrón:  
