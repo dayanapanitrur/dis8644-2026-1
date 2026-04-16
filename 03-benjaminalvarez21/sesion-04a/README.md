@@ -70,6 +70,8 @@ https://github.com/user-attachments/assets/a0b89e35-d19b-4ca2-adda-2f31af42bfd0
 
 En este caso estoy desarmando unos audífonos Bluetooth que tenía en mi casa. Primero separé el acolchado para facilitar la apertura y luego retiré el parlante de la estructura, lo que dejó visible la PCB.
 
+![audifonos](./imagenes/pcb-unida-tornillos.jpeg)
+
 En la placa pude reconocer varios componentes importantes. Había dos chips, uno con la inscripción LTH7 y otro “C24BP0G672-25D4. Según lo que investigué, el AC24BP se encarga de la conectividad Bluetooth y de la reproducción de sonido, mientras que el LTH7 regula la carga y protege la batería frente a altas temperaturas. También identifiqué la batería, aunque no pude ver su voltaje directamente, aunque según internet, generalmente es de 3.7 V y puede llegar a 4.2 V cuando está completamente cargada.
 
 ### Chips
@@ -112,7 +114,7 @@ Los componentes como los parlantes, la batería y la pequeña pieza negra están
 
 En cambio, otros elementos como los chips, botones, resistencias, condensadores y conexiones se encuentran directamente ensamblados sobre la placa. A su vez, la PCB está fijada a la carcasa del audífono mediante pequeños tornillos.
 
-![audifonos](./imagenes/uniones.jpg)
+![audifonos](./imagenes/uniones.jpeg)
 
 ## 3.
 
