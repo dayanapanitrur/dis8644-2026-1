@@ -38,13 +38,13 @@ videos explicativos:
 ( :0 )
 
 
-**Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
+
++ **Frecuencia:** cada cuánto pasa algo (suceso y tiempo).
 El tiempo que hay mientras se repite un ciclo es una onda. Ese tiempo es el que se llama **periodo**, ese periodo **define una onda**.
 
 ejemplos de periodos importantes:
 - día (la tierra gira, 24 horas)
 - ingesta de remedios(tomar pastilla, 8 horas)
-
 
 
 **Fórmula de frecuencia (*f*):**
@@ -53,8 +53,8 @@ Frecuencia (general/tiempo):  *f*= 1/T'
 
 -> Donde *f* es frecuencia en Hertz (Hz) y *t* es el periodo o tiempo de un ciclo. **Mide cuántos eventos ocurren en un tiempo definido.**
 
- 
 (**Tiempo total / número de oscilaciones**)
+
 
 **Fórmula período (*T*):**
 
@@ -62,10 +62,8 @@ T= *t*/*n*
 
 -> Donde *t* es el tiempo total y *n* es el número de ciclos o revoluciones. **También se calcula como el inverso de la frecuencia**.
 
-*revisar estos apuntes… 
-
-Si aumenta la frecuencia, el período disminuye
-Si disminuye la frecuencia, el período aumenta
+***Si aumenta la frecuencia, el período disminuye  
+Si disminuye la frecuencia, el período aumenta***
 
 
 *revisar estos apuntes… (los escribi a la rapida)
@@ -168,8 +166,30 @@ Puede ser momentáneo o perdurar en el tiempo.
 Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
 
 
-Anexo: Componentes electrónicos y símbolos
+### Resumen (me ayudó chatgepete)
+
+𝑓=1/𝑇  
+f=1/T  
+𝑇=1/𝑓  
+T=1/f  
+𝑇=𝑡/𝑛  
+T=t/n  
+Frecuencia = ciclos por segundo  
+Período = duración de un ciclo  
+↑ C → ↓ frecuencia  
+↑ R → ↓ frecuencia  
+La oscilación ocurre en la salida del circuito, no en el LED  
+El LED solo indica la señal  
+Alimentación: 9V  
 
 
- 
-https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/ 
+### Anexo: Componentes electrónicos y símbolos
+
+![componentes](./componentes-electronicos-y-sus-simbolos.jpg)  
+Fuente: https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/ 
+
+jejeje  
+![componentes](./componentes-minecraft.jpg)  
+HammerSpider (cuenta de instagram)
+
+
