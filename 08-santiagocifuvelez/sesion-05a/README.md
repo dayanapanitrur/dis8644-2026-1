@@ -46,6 +46,6 @@ As a way of sumary:
 ## 3.	Todo es un ritmo y hay diferentes tipos de Ondas que componen estos.  
 
 **Cada una de estas ondas, genera un sonido diferente por su morfología.**
-![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img3.png)
+![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/ondas.png)
 
 ## 4.	Lógica de Boole.
