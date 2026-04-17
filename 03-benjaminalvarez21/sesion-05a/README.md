@@ -1,53 +1,55 @@
-# sesion-05a
+# sesión-05a
 
-### vcv rack
+## VCV Rack
 
-página que podemos crear gratis con eurorack
+Es una plataforma online donde podemos crear sintetizadores modulares de forma gratuita, basada en el formato Eurorack.
 
-los inputs y outputs tienen un borde negro porque eso significa que es salida o entrada
+Los inputs y outputs tienen un borde negro, lo que indica que son puntos de entrada o salida de señal.
 
-gate es la compuerta que hace que salga el sonido
+El gate funciona como una compuerta que permite o bloquea el paso del sonido.
 
-### palabras claves
+## Palabras clave
 
-vc significa controlado por voltaje
+- VC (Voltage Controlled) controlado por voltaje.
 
-vco es oscilador que se controla con voltaje
+- VCO (Voltage Controlled Oscillator) oscilador controlado por voltaje.
 
-lfo es un oscilador de baja frecuencia no se usar para sonar,  sino que para controlar parámetros (low)
+- LFO (Low Frequency Oscillator) oscilador de baja frecuencia que no se usa para generar sonido directamente, sino para modular parámetros.
 
-vca es el que controla y regula el volumen 
+- VCA (Voltage Controlled Amplifier) controla y regula el volumen.
 
-vcf modifica el timbre armónico de la señal de audio
+- VCF (Voltage Controlled Filter) modifica el timbre armónico de la señal de audio.
 
-## ondas de sonido
+## Ondas de sonido
 
-senoidal es una curva suave y fluida, suena limpia y fluida, no tiene armónicos, solo frecuencia fundamental 
+- Senoidal: Curva suave y fluida. Suena limpia, sin armónicos, solo con la frecuencia fundamental.
 
-triangular sube y baja simétricamente, suena suave igual pero más viva que la anterior, solo tiene armónicos impares pero pierden fuerza muy rápido 
+- Triangular: Sube y baja de forma simétrica. Suena suave, pero más rica que la senoidal. Tiene armónicos impares que pierden fuerza rápidamente.
 
-cuadrado, altera entre un valor máximo y un mínimo instantáneamente, tiene un sonido hueco y se parece a un videojuego clásico, también tiene armónicos impares, pero con más fuerza que el triangular
+- Cuadrada: Alterna instantáneamente entre valores máximos y mínimos. Suena “hueca”, similar a videojuegos clásicos. Tiene armónicos impares más presentes que la triangular.
 
-saw sube en rampa y cae en golpe, es más ruidosa, pero tiene todos los armónicos, se usa para imitar instrumentos de cuerda y cobre
+- Sierra (saw): Sube en rampa y cae bruscamente. Es más intensa y contiene todos los armónicos, por lo que se usa para imitar instrumentos como cuerdas o metales.
 
-boole y álgebra de boole 0 y 1 son tierra y 9v
+## Álgebra de Boole
 
-Las compuertas lógicas not (inversor) y and son componentes fundamentales en la electrónica digital, utilizados para procesar señales binarias (0 y 1) dentro de los microchips
+En electrónica digital, los valores 0 y 1 representan estados (por ejemplo, tierra y 9V).
 
-### ejercicio en clase con el chip 4093 y lm386
+Las compuertas lógicas como NOT (inversor) y AND son fundamentales para procesar señales binarias dentro de los circuitos y microchips.
 
-Creamos un amplificador de sonido junto a Anays Cornejo, primero con un potenciómetro y después con dos.
+## Ejercicio en clase: chip 4093 y LM386
 
-### un potenciómetro
+Junto a Anays Cornejo, construimos un amplificador de sonido.
+
+Primero utilizamos un potenciómetro y luego probamos con dos.
+
+### Un potenciómetro
 
 https://github.com/user-attachments/assets/d2ce1d8e-45e1-4622-b72d-d0a0dd475233
 
-### doble potenciómetro
+### Doble potenciómetro
 
 https://github.com/user-attachments/assets/2bbdde3e-94cc-4182-a0ea-fdfef8664d0b
 
-en el de doble potenciómetro nos dimos cuenta que suena muy similar a pokerface de lady gaga
+En la versión con doble potenciómetro, notamos que el sonido se parecía mucho a Poker Face de Lady Gaga.
 
 https://github.com/user-attachments/assets/b95852d9-8988-4afd-86c6-a97173941883
-
-
